@@ -1,0 +1,483 @@
+fpl_id,fbref_id,name,full_name,height_cm,weight_kg,date_of_birth,nation,club
+1,2628fd2b,Bernd Leno,Bernd Leno,190.0,79.0,March 4 1992,Germany,Arsenal
+2,8fa8f8d2,Rúnar Alex Rúnarsson,Rúnar Alex Rúnarsson,185.0,78.0,February 18 1995,Iceland,Arsenal
+3,8b9ebd03,Willian,Willian Borges da Silva,175.0,70.0,August 9 1988,Brazil,Arsenal
+4,d5dd5f1f,Pierre-Emerick Aubameyang,Pierre-Emerick Emiliano François Aubameyang,187.0,80.0,June 18 1989,Gabon,Arsenal
+5,839c14e1,Cédric Soares,Cédric Ricardo Alves Soares,169.0,65.0,August 31 1991,Portugal,Arsenal
+6,9dbb75ca,Alexandre Lacazette,Alexandre Lacazette,175.0,73.0,May 28 1991,France,Arsenal
+7,e61b8aee,Granit Xhaka,Granit Xhaka,185.0,82.0,September 27 1992,Switzerland,Arsenal
+8,aa54ec6f,Pablo Marí,Pablo Marí Villar,191.0,77.0,August 31 1993,Spain,Arsenal
+9,f874dd44,Héctor Bellerín,Héctor Bellerín Moruno,177.0,74.0,March 19 1995,Spain,Arsenal
+10,dc6f5bdd,Calum Chambers,Calum Chambers,183.0,77.0,January 20 1995,England,Arsenal
+11,3935e52e,Sead Kolašinac,Sead Kolašinac,183.0,82.0,June 20 1993,Bosnia and Herzegovina,Arsenal
+12,47a34c4f,Mohamed Elneny,Mohamed Naser Elsayad Elneny,180.0,77.0,July 11 1992,Egypt,Arsenal
+13,e3a5814e,Ainsley Maitland-Niles,Ainsley Cory Maitland-Niles,180.0,67.0,August 29 1997,England,Arsenal
+14,d79a8c87,Rob Holding,Rob Holding,183.0,75.0,September 20 1995,England,Arsenal
+15,529f49ab,Thomas Partey,Thomas Teye Partey,185.0,78.0,June 13 1993,Ghana,Arsenal
+16,fce2302c,Kieran Tierney,Kieran Tierney,178.0,70.0,June 5 1997,Scotland,Arsenal
+17,57e3f0c7,Nicolas Pépé,Nicolas Pépé,178.0,68.0,May 29 1995,Côte d'Ivoire,Arsenal
+18,52611641,Lucas Torreira,Lucas Torreira,167.0,63.0,February 11 1996,Uruguay,Arsenal
+19,a3b03921,Joe Willock,Joe Willock,178.0,74.0,August 20 1999,England,Arsenal
+20,a53649b7,Eddie Nketiah,Edward Nketiah,175.0,66.0,May 30 1999,England,Arsenal
+21,17695062,Emile Smith-Rowe,Emile Smith-Rowe,182.0,72.0,July 28 2000,England,Arsenal
+22,bc7dc64d,Bukayo Saka,Bukayo Saka,178.0,65.0,September 5 2001,England,Arsenal
+23,67ac5bb8,Gabriel Dos Santos,Gabriel dos Santos Magalhães,190.0,78.0,December 19 1997,Brazil,Arsenal
+24,00963611,Konstantinos Mavropanos,Konstantinos Mavropanos,191.0,78.0,December 11 1997,Greece,Arsenal
+25,5ea8ef20,Mattéo Guendouzi,Mattéo Guendouzi,185.0,68.0,April 14 1999,France,Marseille
+26,48a5a5d6,Martinelli,Gabriel Teodoro Martinelli Silva,180.0,75.0,June 18 2001,Brazil,Arsenal
+27,972aeb2a,William Saliba,William Saliba,193.0,76.0,March 24 2001,France,Arsenal
+28,a8a3d139,Jed Steer,Jed John Steer,188.0,89.0,September 23 1992,England,Aston Villa
+29,fcab00a0,Conor Hourihane,Conor Hourihane,181.0,62.0,February 2 1991,Republic of Ireland,Aston Villa
+30,7956236f,Emiliano Martínez,Damián Emiliano Martínez,193.0,85.0,September 2 1992,Argentina,Aston Villa
+31,4fdf1fd9,Björn Engels,Björn Engels,194.0,83.0,September 15 1994,Belgium,Antwerp
+32,c47541e0,Bertrand Traoré,Bertrand Isidore Traoré,177.0,72.0,September 6 1995,Burkina Faso,Aston Villa
+33,b0b4fd3e,Jack Grealish,Jack Grealish,175.0,68.0,September 10 1995,England,Aston Villa
+34,6e7f1353,Morgan Sanson,Morgan Sanson,182.0,70.0,August 18 1994,France,Aston Villa
+35,90f91999,John McGinn,John McGinn,178.0,70.0,October 18 1994,Scotland,Aston Villa
+36,bf8fad51,Kortney Hause,Kortney Hause,189.0,79.0,July 16 1995,England,Aston Villa
+37,3ae14ed1,Trézéguet,Mahmoud Ibrahim Hassan,179.0,65.0,October 1 1994,Egypt,Aston Villa
+38,8397a50c,Tyrone Mings,Tyrone Deon Mings,195.0,77.0,March 13 1993,England,Aston Villa
+39,e514ab62,Matt Targett,Matthew Robert Targett,178.0,70.0,September 18 1995,England,Aston Villa
+40,aed3a70f,Ollie Watkins,Oliver George Arthur Watkins,180.0,70.0,December 30 1995,England,Aston Villa
+41,de5b5570,Marvelous Nakamba,Marvelous Nakamba,177.0,71.0,January 19 1994,Zimbabwe,Aston Villa
+42,ffa90327,Anwar El Ghazi,Anwar El Ghazi,188.0,86.0,May 3 1995,Netherlands,Aston Villa
+43,66b76d44,Emi Buendía,Emiliano Buendía Stati,170.0,65.0,December 25 1996,Argentina,Aston Villa
+44,2389cdc2,Matty Cash,Matty Cash,185.0,76.0,August 7 1997,England,Aston Villa
+45,0313a347,Ezri Konsa,Ezri Konsa Ngoyo,183.0,77.0,October 23 1997,England,Aston Villa
+46,5d8d7454,Frederic Guilbert,Frederic Guilbert,178.0,70.0,December 24 1994,France,Aston Villa
+47,bfae110f,Wesley Moraes,Wesley Moraes Ferreira Da Silva,192.0,93.0,November 26 1996,Brazil,Aston Villa
+48,dae8623e,Mbwana Samatta,Mbwana Aly Samata,179.0,70.0,December 23 1992,Tanzania,Fenerbahçe
+49,9deaf2c8,Keinan Davis,Keinan Davis,179.0,68.0,February 13 1998,England,Aston Villa
+50,6f7d826d,Douglas Luiz,Douglas Luiz Soares de Paulo,178.0,66.0,May 9 1998,Brazil,Aston Villa
+51,1544f145,Jacob Ramsey,Jacob Ramsey,180.0,73.0,May 28 2001,England,Aston Villa
+52,be927d03,Ashley Young,Ashley Simon Young,175.0,64.0,July 9 1985,England,Aston Villa
+53,99813635,Adam Lallana,Adam David Lallana,173.0,67.0,May 10 1988,England,Brighton & Hove Albion
+54,28300a16,Jason Steele,Jason Sean Steele,190.0,79.0,August 18 1990,England,Brighton & Hove Albion
+55,8aec0537,Pascal Groß,Pascal Groß,181.0,72.0,June 15 1991,Germany,Brighton & Hove Albion
+56,7314bba4,Shane Duffy,Shane Patrick Michael Duffy,193.0,76.0,January 1 1992,Republic of Ireland,Brighton & Hove Albion
+57,fdd85f94,Davy Pröpper,David Petrus Wenceslaus Henri Pröpper,185.0,72.0,September 2 1991,Netherlands,PSV Eindhoven
+58,b2d31e83,Dan Burn,Daniel Johnson Burn,198.0,87.0,May 9 1992,England,Brighton & Hove Albion
+59,282f75f3,Lewis Dunk,Lewis Carl Dunk,192.0,88.0,November 21 1991,England,Brighton & Hove Albion
+60,bb5fbd2b,Solly March,Solomon Benjamin 'Solly' March,180.0,72.0,July 20 1994,England,Brighton & Hove Albion
+61,c40b6180,Adam Webster,Adam Harry Webster,192.0,80.0,January 4 1995,England,Brighton & Hove Albion
+62,dad4b285,Joël Veltman,Joël Ivo Veltman,182.0,75.0,January 15 1992,Netherlands,Brighton & Hove Albion
+63,4bcf39f6,Neal Maupay,Neal Maupay,171.0,69.0,August 14 1996,France,Brighton & Hove Albion
+64,38ceb24a,Leandro Trossard,Leandro Trossard,172.0,61.0,December 4 1994,Belgium,Brighton & Hove Albion
+65,4535e4bb,Mathew Ryan,Mathew David Ryan,184.0,73.0,April 8 1992,Australia,Brighton & Hove Albion
+66,08452314,Alireza Jahanbakhsh,Alireza Jahanbakhsh Jirandeh,180.0,77.0,August 11 1993,Iran,Brighton & Hove Albion
+67,35e413f1,Ben White,Ben White,175.0,74.0,October 8 1997,England,Brighton & Hove Albion
+68,17370b95,Bernardo,Bernardo Fernandes da Silva Junior,186.0,76.0,May 14 1995,Brazil,Red Bull Salzburg
+69,6a713852,Robert Sánchez,Robert Sánchez,197.0,88.0,November 18 1997,Spain,Brighton & Hove Albion
+70,6c203af0,Yves Bissouma,Yves Bissouma,181.0,72.0,August 30 1996,Mali,Brighton & Hove Albion
+71,f4e433d4,Tariq Lamptey,Tariq Lamptey,175.0,69.0,September 30 2000,England,Brighton & Hove Albion
+72,27c01749,Aaron Connolly,Aaron Anthony Connolly,180.0,77.0,January 28 2000,Republic of Ireland,Brighton & Hove Albion
+73,ad1f61f3,Steven Alzate,Steven Alzate,180.0,65.0,September 8 1998,Colombia,Brighton & Hove Albion
+74,83d074ff,Alexis Mac Allister,Alexis Mac Allister,174.0,72.0,December 24 1998,Argentina,Brighton & Hove Albion
+75,f230bc30,Jakub Moder,Jakub Moder,188.0,79.0,April 7 1999,Poland,Brighton & Hove Albion
+76,172e52d8,Pontus Jansson,Pontus Sven Gustav Jansson,194.0,86.0,February 13 1991,Sweden,Brentford
+77,df0a4c90,Christian Nørgaard,Christian Thers Nørgaard,185.0,70.0,March 10 1994,Denmark,Brentford
+78,e09f279b,Ivan Toney,Ivan Benjamin Elijah Toney,179.0,65.0,March 16 1996,England,Brentford
+79,3dcef539,Tariqe Fosu,Tarique Fosu,180.0,66.0,November 5 1995,Ghana,Brentford
+80,98ea5115,David Raya,David Raya,186.0,81.0,September 15 1995,Spain,Brentford
+81,1137759d,Sergi Canós,Sergi Canós Tenés,175.0,70.0,February 2 1997,Spain,Brentford
+82,60344e4f,Josh Dasilva,Pelenda Joshua Tunga Dasilva,175.0,68.0,October 23 1998,England,Brentford
+83,8a3c1dc7,Rico Henry,Rico Henry,170.0,68.0,July 8 1997,England,Brentford
+84,8449d35e,Vitaly Janelt,Vitaly Janelt,178.0,79.0,May 10 1998,Germany,Brentford
+85,f7b1d4e0,Saman Ghoddos,Saman Ghoddos,176.0,75.0,September 6 1993,Iran,Brentford
+86,0f134faf,Mathias Jensen,Mathias Jensen,173.0,68.0,January 1 1996,Denmark,Brentford
+87,7aee4dd3,Charlie Goode,Charlie Goode,196.0,75.0,August 3 1995,England,Brentford
+88,82c215a0,Marcus Forss,Marcus Forss,187.0,70.0,June 18 1999,Finland,Brentford
+89,57c94db2,Mads Roerslev,Mads Roerslev,,,June 24 1999,Denmark,Brentford
+90,30db8574,Mads Bech Sørensen,Mads Bech Sørensen,193.0,77.0,January 7 1999,Denmark,Brentford
+91,e541326e,Ethan Pinnock,Ethan Pinnock,188.0,79.0,May 29 1993,Jamaica,Brentford
+92,e827567f,Ellery Balcombe,Ellery Balcombe,180.0,70.0,October 15 1999,England,Burton Albion
+93,395880a4,Jan Žambůrek,Jan Žambůrek,,,February 13 2001,Czech Republic,Brentford
+94,4d39152d,Patrik Gunnarsson,Patrik Sigurður Gunnarsson,,,November 15 2000,Iceland,Brentford
+95,9d8cf204,Halil Dervişoğlu,Halil İbrahim Dervişoğlu,183.0,77.0,December 8 1999,Turkey,Sparta Rotterdam
+96,6afaebf2,Bryan Mbeumo,Bryan Mbeumo,171.0,65.0,August 7 1999,France,Brentford
+97,407db0d5,Mads Bidstrup,Mads Bidstrup,,,February 25 2001,Denmark,Brentford
+98,15ea812b,James Tarkowski,James Alan Tarkowski,185.0,81.0,November 19 1992,England,Burnley
+99,1ae30132,Phil Bardsley,Phillip Anthony Bardsley,180.0,73.0,June 28 1985,Scotland,Burnley
+100,1ef37668,Erik Pieters,Erik Pieters,184.0,71.0,August 7 1988,Netherlands,Burnley
+101,74e12f1e,Jack Cork,Jack Frank Porteous Cork,185.0,69.0,June 25 1989,England,Burnley
+102,653ee42d,Dale Stephens,Dale Christopher Stephens,170.0,71.0,June 12 1989,England,Burnley
+103,5a4280b1,Kevin Long,Kevin Finbarr Long,190.0,83.0,August 18 1990,Republic of Ireland,Burnley
+104,4ab53cdb,Jay Rodriguez,Jay Enrique Rodriguez,185.0,70.0,July 29 1989,England,Burnley
+105,2691c772,Ashley Barnes,Ashley Luke Barnes,183.0,76.0,October 30 1989,England,Burnley
+106,8df7a2fb,Ben Mee,Benjamin Thomas Mee,180.0,72.0,September 23 1989,England,Burnley
+107,495945ef,Ashley Westwood,Ashley Roy Westwood,170.0,80.0,April 1 1990,England,Burnley
+108,f72293fc,Jóhann Berg Guðmundsson,Jóhann Berg Guðmundsson,186.0,79.0,October 27 1990,Iceland,Burnley
+109,4e9a0555,Chris Wood,Christopher Grant Wood,191.0,82.0,December 7 1991,New Zealand,Burnley
+110,9a9c05db,Matthew Lowton,Matthew John Lowton,180.0,78.0,June 9 1989,England,Burnley
+111,0d4ceb32,Matěj Vydra,Matěj Vydra,180.0,75.0,May 1 1992,Czech Republic,Burnley
+112,4b40d9ca,Nick Pope,Nicholas David Pope,190.0,76.0,April 19 1992,England,Burnley
+113,cc2d7ad5,Charlie Taylor,Charles James Taylor,175.0,70.0,September 18 1993,England,Burnley
+114,c73ada83,Will Norris,Will Norris,195.0,79.0,August 12 1993,England,Burnley
+115,47369df8,Josh Brownhill,Joshua Brownhill,177.0,74.0,December 19 1995,England,Burnley
+116,bf3aeb61,Josh Benson,Josh Benson,175.0,74.0,December 5 1999,England,Burnley
+117,4879f8cb,Bailey Peacock-Farrell,Bailey Peacock-Farrell,174.0,62.0,October 29 1996,Northern Ireland,Burnley
+118,fc15fb84,Dwight McNeil,Dwight McNeil,177.0,72.0,November 22 1999,England,Burnley
+119,53cad200,César Azpilicueta,César Azpilicueta Tanco,178.0,76.0,August 28 1989,Spain,Chelsea
+120,16ceb862,Olivier Giroud,Olivier Giroud,192.0,88.0,September 30 1986,France,Chelsea
+121,86e7deaf,Thiago Silva,Thiago Emiliano da Silva,183.0,79.0,September 22 1984,Brazil,Chelsea
+122,f4290206,Marcos Alonso,Marcos Alonso Mendoza,188.0,85.0,December 28 1990,Spain,Chelsea
+123,45db685d,Jorginho,Jorge Luiz Frello Filho,180.0,65.0,December 20 1991,Italy,Chelsea
+124,3a24769f,Ross Barkley,Ross Barkley,189.0,83.0,December 5 1993,England,Chelsea
+125,79c0821a,Mateo Kovačić,Mateo Kovačić,181.0,75.0,May 6 1994,Croatia,Chelsea
+126,2973d8ff,Michy Batshuayi,Michy Batshuayi Tunga,185.0,78.0,October 2 1993,Belgium,Chelsea
+127,18b896d6,Antonio Rüdiger,Antonio Rüdiger,191.0,85.0,March 3 1993,Germany,Chelsea
+128,ce4246f5,Kurt Zouma,Kurt Happy Zouma,190.0,92.0,October 27 1994,France,Chelsea
+129,28d596a0,Kepa Arrizabalaga,Kepa Arrizabalaga Revuelta,189.0,88.0,October 3 1994,Spain,Chelsea
+130,b9fbae28,N'Golo Kanté,N'Golo Kanté,169.0,68.0,March 29 1991,France,Chelsea
+131,6622454d,Hakim Ziyech,'Hakim Ziyech',180.0,70.0,March 19 1993,Morocco,Chelsea
+132,e97fd090,Ruben Loftus-Cheek,Ruben Ira Loftus-Cheek,191.0,83.0,January 23 1996,England,Chelsea
+133,1cb49278,Andreas Christensen,Andreas Bodtker Christensen,188.0,74.0,April 10 1996,Denmark,Chelsea
+134,49fe9070,Timo Werner,Timo Werner,180.0,75.0,March 6 1996,Germany,Chelsea
+135,d2424d1b,Ben Chilwell,Ben Chilwell,178.0,71.0,December 21 1996,England,Chelsea
+136,f586779e,Tammy Abraham,Tammy Abraham,190.0,82.0,October 2 1997,England,Chelsea
+137,1bf33a9a,Christian Pulisic,Christian Mate Pulisic,172.0,69.0,September 18 1998,United States,Chelsea
+138,9674002f,Mason Mount,Mason Mount,175.0,64.0,January 10 1999,England,Chelsea
+139,10b9fa99,Ethan Ampadu,Ethan Ampadu,175.0,70.0,September 14 2000,Wales,Chelsea
+140,15f3ec41,Callum Hudson-Odoi,Callum Hudson-Odoi,182.0,76.0,November 7 2000,England,Chelsea
+141,fed7cb61,Kai Havertz,Kai Havertz,186.0,77.0,June 11 1999,Germany,Chelsea
+142,1265a93a,Reece James,Reece James,172.0,64.0,December 8 1999,England,Chelsea
+143,33887998,Edouard Mendy,Edouard Mendy,197.0,86.0,March 1 1992,Senegal,Chelsea
+144,c2731c10,Conor Gallagher,Conor Gallagher,182.0,74.0,February 6 2000,England,Chelsea
+145,df10e27c,Billy Gilmour,Billy Gilmour,170.0,60.0,June 11 2001,Scotland,Norwich City
+146,ab13a5aa,Vicente Guaita,Vicente Guaita Panadero,191.0,80.0,January 10 1987,Spain,Crystal Palace
+147,e7ca0439,James Tomkins,James Oliver Charles Tomkins,190.0,81.0,March 29 1989,England,Crystal Palace
+148,cee31595,James McArthur,James McArthur,178.0,67.0,October 7 1987,Scotland,Crystal Palace
+149,ab070c55,Christian Benteke,Christian Benteke Liolo,190.0,83.0,December 3 1990,Belgium,Crystal Palace
+150,8d3c902d,Cheikhou Kouyaté,Cheikhou Kouyaté,193.0,80.0,December 21 1989,Senegal,Crystal Palace
+151,d7492450,Martin Kelly,Martin Ronald Kelly,191.0,77.0,April 27 1990,England,Crystal Palace
+152,2ce2508a,Luka Milivojević,Лука Миливојевић,184.0,75.0,April 7 1991,Serbia,Crystal Palace
+153,da052c14,Jordan Ayew,Jordan Pierre Ayew,182.0,81.0,September 11 1991,Ghana,Crystal Palace
+154,b2bc3b1f,Wilfried Zaha,Dazet Wilfried Armel Zaha,180.0,66.0,November 10 1992,Côte d'Ivoire,Crystal Palace
+155,3312f911,Jeffrey Schlupp,Jeffrey Schlupp,178.0,72.0,December 23 1992,Ghana,Crystal Palace
+156,cc70a1d5,Jack Butland,Jack Butland,193.0,94.0,March 10 1993,England,Crystal Palace
+157,7a1f2c08,Jaïro Riedewald,Jaïro Riedewald,186.0,79.0,September 9 1996,Netherlands,Crystal Palace
+158,99246027,Jarosław Jach,Jarosław Jach,190.0,81.0,February 17 1994,Poland,Crystal Palace
+159,50e6dc35,Jean-Philippe Mateta,Jean-Philippe Mateta,192.0,82.0,June 28 1997,France,Crystal Palace
+160,ae4fc6a4,Eberechi Eze,Eberechi Eze,173.0,70.0,June 29 1998,England,Crystal Palace
+161,2f8d27bc,Nathan Ferguson,Nathan Ferguson,178,70,October 6 2000,England,
+162,5cbd1eb0,Tyrick Mitchell,Tyrick Mitchell,175.0,66.0,September 1 1999,England,Crystal Palace
+163,111c3236,Fabian Delph,Fabian Delph,175.0,62.0,November 21 1989,England,Everton
+164,76dd1480,Gylfi Sigurðsson,Gylfi Þór Sigurðsson,186.0,79.0,September 8 1989,Iceland,Everton
+165,0420d84f,Séamus Coleman,Séamus Coleman,177.0,67.0,October 11 1988,Republic of Ireland,Everton
+166,715bf047,James Rodríguez,James David Rodríguez Rubio,180.0,77.0,July 12 1991,Colombia,Everton
+167,ab4b3e35,Bernard,Bernard Anício Caldeira Duarte,168.0,63.0,September 8 1992,Brazil,Everton
+168,1b84dbe1,Lucas Digne,Lucas Digne,178.0,74.0,July 20 1993,France,Everton
+169,c5b7c315,Michael Keane,Michael Vincent Keane,191.0,72.0,January 11 1993,England,Everton
+170,4806ec67,Jordan Pickford,Jordan Lee Pickford,185.0,77.0,March 7 1994,England,Everton
+171,cc700722,Allan,Allan Marques Loureiro,173.0,73.0,January 8 1991,Brazil,Everton
+172,1961b2aa,André Gomes,André Filipe Tavares Gomes,188.0,84.0,July 30 1993,Portugal,Everton
+173,02b29014,Abdoulaye Doucouré,Abdoulaye Doucouré,180.0,60.0,January 1 1993,France,Everton
+174,6ca5ec4b,Alex Iwobi,Alex Iwobi,180.0,75.0,May 3 1996,Nigeria,Everton
+175,6d5701f2,Yerry Mina,Yerry Fernando Mina Gonzalez,195.0,75.0,September 23 1994,Colombia,Everton
+176,9228b07c,Tom Davies,Tom Davies,180.0,70.0,June 30 1998,England,Everton
+177,59e6e5bf,Dominic Calvert-Lewin,Dominic Nathaniel Calvert-Lewin,189.0,64.0,March 16 1997,England,Everton
+178,d0042ab9,Mason Holgate,Mason Holgate,184.0,74.0,October 22 1996,England,Everton
+179,9f7c837d,Ben Godfrey,Benjamin Matthew Godfrey,183.0,79.0,January 15 1998,England,Everton
+180,fa031b34,Richarlison,Richarlison,179.0,71.0,May 10 1997,Brazil,Everton
+181,728e9b2e,João Virgínia,João Manuel Neves Virgínia,192.0,78.0,October 10 1999,Portugal,Everton
+182,c0398aca,Pablo Hernández,Pablo Hernández Domínguez,173.0,64.0,April 11 1985,Spain,Leeds United
+183,58bc7d18,Kiko Casilla,Francisco Casilla Cortés,190.0,84.0,October 2 1986,Spain,Leeds United
+184,dc64b8b3,Liam Cooper,Liam David Ian Cooper,180.0,73.0,August 30 1991,Scotland,Leeds United
+185,420d7c7d,Luke Ayling,Luke David Ayling,183.0,72.0,August 25 1991,England,Leeds United
+186,282679b4,Mateusz Klich,Mateusz Klich,183.0,68.0,June 13 1990,Poland,Leeds United
+187,1fb1c435,Rodrigo,Rodrigo Moreno Machado,180.0,73.0,March 6 1991,Spain,Leeds United
+188,67ca8566,Stuart Dallas,Stuart Alan Dallas,183.0,81.0,April 19 1991,Northern Ireland,Leeds United
+189,93feac6e,Patrick Bamford,Patrick James Bamford,188.0,71.0,September 5 1993,England,Leeds United
+190,bba30585,Diego Llorente,Diego Javier Llorente Ríos,185.0,74.0,August 16 1993,Spain,Leeds United
+191,4f565d77,Kalvin Phillips,Kalvin Phillips,177.0,68.0,December 2 1995,England,Leeds United
+192,f13d02a6,Hélder Costa,Hélder Wander Sousa de Azevedo e Costa,178.0,69.0,January 12 1994,Portugal,Leeds United
+193,6c17e046,Tyler Roberts,Tyler Roberts,180.0,77.0,January 12 1999,Wales,Leeds United
+194,ea6bc03a,Robin Koch,Robin Koch,192.0,82.0,July 17 1996,Germany,Leeds United
+195,55b4f1d6,Ian Carlo Poveda,Ian Carlo Poveda,167.0,63.0,February 9 2000,England,Leeds United
+196,3423f250,Raphael Dias Belloli,Raphael Dias Belloli,176.0,78.0,December 14 1996,Brazil,Leeds United
+197,8d03ca5a,Jamie Shackleton,Jamie Stuart Shackleton,182.0,77.0,October 8 1999,England,Leeds United
+198,f4d296e4,Pascal Struijk,Pascal Struijk,190.0,78.0,August 11 1999,Netherlands,Leeds United
+199,6b625ac2,Illan Meslier,Illan Stéphane Meslier,193.0,74.0,March 2 2000,France,Leeds United
+200,53af52f3,Kasper Schmeichel,Kasper Peter Schmeichel,189.0,83.0,November 5 1986,Denmark,Leicester City
+201,f8fcd2a5,Jonny Evans,Jonathan Grant Evans,188.0,77.0,January 3 1988,Northern Ireland,Leicester City
+202,b827d5b3,Marc Albrighton,Marc Kevin Albrighton,175.0,67.0,November 18 1989,England,Leicester City
+203,1598599e,Nampalys Mendy,Nampalys Mendy,168.0,68.0,June 23 1992,Senegal,Leicester City
+204,d3ce0e89,Danny Ward,Danny Ward,191.0,88.0,June 22 1993,Wales,Leicester City
+205,45963054,Jamie Vardy,Jamie Richard Vardy,178.0,76.0,January 11 1987,England,Leicester City
+206,86695068,Dennis Praet,Dennis Pierre Jacques Albert Praet,181.0,78.0,May 14 1994,Belgium,Leicester City
+207,75a72a99,Ricardo Pereira,Ricardo Domingos Barbosa Pereira,175.0,70.0,October 6 1993,Portugal,Leicester City
+208,1a4ef233,Daniel Amartey,Daniel Amartey,182.0,76.0,December 21 1994,Ghana,Leicester City
+209,197640fd,Timothy Castagne,Timothy Castagne,180.0,80.0,December 5 1995,Belgium,Leicester City
+210,56f7a928,Youri Tielemans,Youri Tielemans,177.0,72.0,May 7 1997,Belgium,Leicester City
+211,819aa8e7,Ayoze Pérez,Ayoze Pérez Gutiérrez,179.0,68.0,July 23 1993,Spain,Leicester City
+212,ee38d9c5,James Maddison,James Daniel Maddison,175.0,72.0,November 23 1996,England,Leicester City
+213,c92e1a31,Kelechi Iheanacho,Kelechi Promise Iheanacho,185.0,77.0,October 3 1996,Nigeria,Leicester City
+214,7d2d3329,Hamza Choudhury,Hamza Choudhury,178.0,77.0,October 1 1997,England,Leicester City
+215,3ea50f67,Harvey Barnes,Harvey Barnes,174.0,68.0,December 9 1997,England,Leicester City
+216,6b47c5db,Wilfred Ndidi,Onyinye Wilfred Ndidi,188.0,78.0,December 16 1996,Nigeria,Leicester City
+217,21166ff4,Çağlar Söyüncü,Çağlar Söyüncü,187.0,80.0,May 23 1996,Turkey,Leicester City
+218,fb614c44,James Justin,James Justin,183.0,70.0,February 23 1998,England,Leicester City
+219,fc027d02,Luke Thomas,Luke Jonathan Thomas,181.0,74.0,June 10 2001,England,Leicester City
+220,132a82f1,Wesley Fofana,Wesley Fofana,185.0,76.0,December 17 2000,France,Leicester City
+221,2f90f6b8,James Milner,James Philip Milner,176.0,70.0,January 4 1986,England,Liverpool
+222,935e6b8f,Jordan Henderson,Jordan Brian Henderson,182.0,67.0,June 17 1990,England,Liverpool
+223,f76e6b4e,Adrián,Adrián San Miguel del Castillo,190.0,83.0,January 3 1987,Spain,Liverpool
+224,b217ef29,Joël Matip,Joël Job Matip,195.0,90.0,August 8 1991,Cameroon,Liverpool
+225,77e84962,Thiago Alcántara,Thiago Alcántara do Nascimento,172.0,60.0,April 11 1991,Spain,Liverpool
+226,6421ec64,Xherdan Shaqiri,Xherdan Shaqiri,169.0,73.0,October 10 1991,Switzerland,Liverpool
+227,38c7feef,Alex Oxlade-Chamberlain,Alexander Mark David,180.0,75.0,August 15 1993,England,Liverpool
+228,4c370d81,Roberto Firmino,Roberto Firmino Barbosa de Oliveira,181.0,76.0,October 2 1991,Brazil,Liverpool
+229,e06683ca,Virgil van Dijk,Virgil van Dijk,193.0,87.0,July 8 1991,Netherlands,Liverpool
+230,c691bfe2,Sadio Mané,Sadio Mané,175.0,69.0,April 10 1992,Senegal,Liverpool
+231,7a2e46a8,Alisson,Alisson Ramses Becker,193.0,91.0,October 2 1992,Brazil,Liverpool
+232,7f3b388c,Fabinho,Fábio Henrique Tavares,188.0,78.0,October 23 1993,Brazil,Liverpool
+233,e342ad68,Mohamed Salah,Mohamed Salah Ghaly,175.0,71.0,June 15 1992,Egypt,Liverpool
+234,2e4f5f03,Andrew Robertson,Andrew Robertson,178.0,64.0,March 11 1994,Scotland,Liverpool
+235,43a166b4,Divock Origi,Divock Okoth Origi,186.0,75.0,April 18 1995,Belgium,Liverpool
+236,f833a830,Takumi Minamino,南野拓実,174.0,67.0,January 16 1995,Japan,Liverpool
+237,cd1acf9d,Trent Alexander-Arnold,Trent John Alexander-Arnold,175.0,69.0,October 7 1998,England,Liverpool
+238,7a11550b,Joe Gomez,Joseph Dave Gomez,188.0,77.0,May 23 1997,England,Liverpool
+239,f25c8e3a,Naby Keïta,Naby Leye Keïta,172.0,71.0,February 10 1995,Guinea,Liverpool
+240,178ae8f8,Diogo Jota,Diogo Jota,178.0,70.0,December 4 1996,Portugal,Liverpool
+241,515ebe8d,Nathaniel Phillips,Nathaniel Phillips,190.0,84.0,March 21 1997,England,Liverpool
+242,62d7ef38,Caoimhín Kelleher,Caoimhín Odhrán Kelleher,188.0,81.0,November 23 1998,Republic of Ireland,Liverpool
+243,5ed9b537,Ibrahima Konaté,Ibrahima Konaté,193.0,84.0,May 25 1999,France,Liverpool
+244,4fb9c88f,Curtis Jones,Curtis Jones,185.0,72.0,January 30 2001,England,Liverpool
+245,f315ca93,Kostas Tsimikas,Konstantinos Tsimikas,177.0,70.0,May 12 1996,Greece,Liverpool
+246,dd323728,Neco Williams,Neco Williams,183.0,76.0,April 13 2001,Wales,Liverpool
+247,012c975a,Rhys Williams,Rhys Williams,188.0,74.0,February 3 2001,England,Liverpool
+248,c9009a1f,Ben Davies,Benjamin Keith Davies,185.0,78.0,August 11 1995,England,Liverpool
+249,86dd77d1,Kyle Walker,Kyle Andrew Walker,178.0,73.0,May 28 1990,England,Manchester City
+250,819b3158,İlkay Gündoğan,İlkay Gündoğan,180.0,79.0,October 24 1990,Germany,Manchester City
+251,e46012d4,Kevin De Bruyne,Kevin De Bruyne,181.0,70.0,June 28 1991,Belgium,Manchester City
+252,5eecec3d,John Stones,John Stones,188.0,70.0,May 28 1994,England,Manchester City
+253,5271c8f1,Benjamin Mendy,Benjamin Mendy,186.0,75.0,July 17 1994,France,Manchester City
+254,892d5bb1,Riyad Mahrez,Riyad Mahrez,178.0,60.0,February 21 1991,Algeria,Manchester City
+255,b400bde0,Raheem Sterling,Raheem Shaquille Sterling,170.0,70.0,December 8 1994,England,Manchester City
+256,bd6351cd,João Cancelo,João Pedro Cavaco Cancelo,182.0,66.0,May 27 1994,Portugal,Manchester City
+257,3bb7b8b4,Ederson,Ederson Santana de Moraes,188.0,89.0,August 17 1993,Brazil,Manchester City
+258,eaeca114,Nathan Aké,Nathan Benjamin Aké,180.0,75.0,February 18 1995,Netherlands,Manchester City
+259,119b9a8e,Aymeric Laporte,Aymeric Laporte,189.0,85.0,May 27 1994,Spain,Manchester City
+260,42130443,Zack Steffen,Zack Steffen,190.0,83.0,April 2 1995,United States,Manchester City
+261,3eb22ec9,Bernardo Silva,Bernardo Mota Veiga de Carvalho e Silva,173.0,65.0,August 10 1994,Portugal,Manchester City
+262,31c69ef1,Rúben Dias,Rúben Dias,186.0,82.0,May 14 1997,Portugal,Manchester City
+263,b66315ae,Gabriel Jesus,Gabriel Fernando de Jesus,177.0,72.0,April 3 1997,Brazil,Manchester City
+264,51cf8561,Oleksandr Zinchenko,Зінченко Олександр Володимирович,175.0,61.0,December 15 1996,Ukraine,Manchester City
+265,ed1e53f3,Phil Foden,Phil Foden,169.0,70.0,May 28 2000,England,Manchester City
+266,6434f10d,Rodri,Rodrigo Hernández Cascante,190.0,78.0,June 22 1996,Spain,Manchester City
+267,aa849a12,Jack Harrison,Jack Harrison,175.0,70.0,November 20 1996,England,Leeds United
+268,9e1035f8,Ferrán Torres,Ferrán Torres,184.0,77.0,February 29 2000,Spain,Manchester City
+269,527f063d,Edinson Cavani,Edinson Roberto Cavani Gómez,184.0,74.0,February 14 1987,Uruguay,Manchester United
+270,7ba6d84e,David de Gea,David de Gea Quintana,192.0,76.0,November 7 1990,Spain,Manchester United
+271,eb7822d7,Nemanja Matić,Немања Матић,194.0,85.0,August 1 1988,Serbia,Manchester United
+272,867239d3,Paul Pogba,Paul Labile Pogba,191.0,84.0,March 15 1993,France,Manchester United
+273,d8931174,Harry Maguire,Jacob Harry Maguire,188.0,79.0,March 5 1993,England,Manchester United
+274,b853e0ad,Fred,Frederico Rodrigues de Paula Santos,169.0,64.0,March 5 1993,Brazil,Manchester United
+275,9c94165b,Luke Shaw,Luke Paul Hoare Shaw,185.0,75.0,July 12 1995,England,Manchester United
+276,810e3c74,Jesse Lingard,Jesse Ellis Lingard,174.0,69.0,December 15 1992,England,Manchester United
+277,507c7bdf,Bruno Fernandes,Bruno Miguel Borges Fernandes,173.0,65.0,September 8 1994,Portugal,Manchester United
+278,8b788c01,Anthony Martial,Anthony Martial,184.0,76.0,December 5 1995,France,Manchester United
+279,e73c9bb2,Alex Telles,Alex Nicolao Telles,181.0,72.0,December 15 1992,Brazil,Manchester United
+280,e5a76dfe,Dean Henderson,Dean Henderson,188.0,73.0,March 12 1997,England,Manchester United
+281,a1d5bd30,Marcus Rashford,Marcus Rashford,180.0,70.0,October 31 1997,England,Manchester United
+282,50dc94ce,Donny van de Beek,Donny van de Beek,181.0,76.0,April 18 1997,Netherlands,Manchester United
+283,2baec6ce,Axel Tuanzebe,Axel Tuanzebe,185.0,78.0,November 14 1997,England,Manchester United
+284,f5deef4c,Victor Lindelöf,Victor Jörgen Nilsson Lindelöf,187.0,82.0,July 17 1994,Sweden,Manchester United
+285,d93c2511,Scott McTominay,Scott McTominay,192.0,85.0,December 8 1996,Scotland,Manchester United
+286,a1232f4e,Eric Bailly,Eric Bertrand Bailly,187.0,77.0,April 12 1994,Côte d'Ivoire,Manchester United
+287,c931d9f9,Daniel James,Daniel Owen James,179.0,79.0,November 10 1997,Wales,Manchester United
+288,9e525177,Aaron Wan-Bissaka,Aaron Wan-Bissaka,182.0,72.0,November 26 1997,England,Manchester United
+289,58eee997,Mason Greenwood,Mason Greenwood,181.0,65.0,October 1 2001,England,Manchester United
+290,5e74d6c8,Brandon Williams,Brandon Williams,182.0,63.0,September 3 2000,England,Manchester United
+291,3727dd3c,Jonjo Shelvey,Jonjo Shelvey,183.0,70.0,February 27 1992,England,Newcastle United
+292,71ef519e,Matt Ritchie,Matthew Thomas Ritchie,173.0,71.0,September 10 1989,Scotland,Newcastle United
+293,2b91cf8e,Ciaran Clark,Ciaran Clark,188.0,76.0,September 26 1989,Republic of Ireland,Newcastle United
+294,cde3309f,Karl Darlow,Karl Darlow,185.0,74.0,October 8 1990,England,Newcastle United
+295,3a949a25,Martin Dúbravka,Martin Dúbravka,190.0,83.0,January 15 1989,Slovakia,Newcastle United
+296,c596fcb0,Callum Wilson,Callum Eddie Graham Wilson,180.0,66.0,February 27 1992,England,Newcastle United
+297,989d5705,Jeff Hendrick,Jeffrey Patrick Hendrick,185.0,73.0,January 31 1992,Republic of Ireland,Newcastle United
+298,d56543a0,Ryan Fraser,Ryan Fraser,163.0,70.0,February 24 1994,Scotland,Newcastle United
+299,450ab6fc,Jamaal Lascelles,Jamaal Lascelles,189.0,83.0,November 11 1993,England,Newcastle United
+300,e58a03c6,Dwight Gayle,Dwight Devon Boyd Gayle,177.0,73.0,October 17 1990,England,Newcastle United
+301,3fe6bd8c,Paul Dummett,Paul Dummett,185.0,65.0,September 26 1991,Wales,Newcastle United
+302,758dd7f0,Javier Manquillo,Javier Manquillo Gaitán,175.0,70.0,May 5 1994,Spain,Newcastle United
+303,77cf6852,Emil Krafth,Emil Henry ­Kristoffer Krafth,181.0,79.0,August 2 1994,Sweden,Newcastle United
+304,de112b84,Jacob Murphy,Jacob Kai Murphy,176.0,70.0,February 24 1995,England,Newcastle United
+305,c8aa95da,Fabian Schär,Fabian Lukas Schär,186.0,85.0,December 20 1991,Switzerland,Newcastle United
+306,c951a6df,Isaac Hayden,Isaac Scot Hayden,187.0,79.0,March 22 1995,England,Newcastle United
+307,2b16cb1a,Allan Saint-Maximin,Allan Saint-Maximin,173.0,67.0,March 12 1997,France,Newcastle United
+308,862a1c15,Miguel Almirón,Miguel Ángel Almirón Rejala,174.0,70.0,February 10 1994,Paraguay,Newcastle United
+309,a2b105e0,Sean Longstaff,Sean Longstaff,181.0,77.0,October 30 1997,England,Newcastle United
+310,c17bfb65,Joelinton,Joelinton Cassio,190.0,76.0,August 14 1996,Brazil,Newcastle United
+311,efb9215a,Jamal Lewis,Jamal Lewis,177.0,69.0,January 25 1998,Northern Ireland,Newcastle United
+312,c0027d2d,Matthew Longstaff,Matthew Longstaff,171.0,65.0,March 21 2000,England,Newcastle United
+313,51a19d04,Michael McGovern,Michael McGovern,185.0,85.0,July 12 1984,Northern Ireland,Norwich City
+314,f23f9d20,Tim Krul,Timothy Krul,193.0,86.0,April 3 1988,Netherlands,Norwich City
+315,0745b37d,Teemu Pukki,Teemu Pukki,180.0,77.0,March 29 1990,Finland,Norwich City
+316,b606638c,Marco Stiepermann,Marco Stiepermann,190.0,84.0,February 9 1991,Germany,Norwich City
+317,3faa1780,Lukas Rupp,Lukas Rupp,178.0,64.0,January 8 1991,Germany,Norwich City
+318,471f16b3,Kenny McLean,Kenneth McLean,183.0,78.0,January 8 1992,Scotland,Norwich City
+319,e9254eec,Grant Hanley,Grant Campbell Hanley,188.0,85.0,November 20 1991,Scotland,Norwich City
+320,007b39a5,Onel Hernández,Onel Lázaro Hernández Mayea,172.0,69.0,February 1 1993,Cuba,Norwich City
+321,1bf811d4,Sam Byram,Samuel Mark Byram,180,72,September 16 1993,England,
+322,a36d4785,Jordan Hugill,Jordan Hugill,183.0,72.0,June 4 1992,England,Norwich City
+323,2f6ec02a,Kieran Dowell,Kieran O'Neill Dowell,184.0,59.0,October 10 1997,England,Norwich City
+324,2d5f03bf,Christoph Zimmermann,Christoph Zimmermann,194.0,80.0,January 12 1993,Germany,Norwich City
+325,f63d8a4b,Todd Cantwell,Todd Cantwell,177.0,66.0,February 27 1998,England,Norwich City
+326,774cf58b,Max Aarons,Maximillian James Aarons,172.0,66.0,January 4 2000,England,Norwich City
+327,953c30b0,Jakob Sørensen,Jakob Sørensen,183.0,77.0,March 3 1998,Denmark,Norwich City
+328,3c33f9d9,Przemysław Płacheta,Przemysław Płacheta,178.0,72.0,March 23 1998,Poland,Norwich City
+329,291e3ec3,Adam Idah,Adam Uche Idah,190.0,82.0,March 11 2001,Republic of Ireland,Norwich City
+330,3f072a68,Josh Martin,Josh Martin,191.0,111.0,September 9 2001,England,Milton Keynes Dons
+331,c393a6c4,Andrew Omobamidele,Andrew Omobamidele,,,June 23 2002,Republic of Ireland,Norwich City
+332,1ecb65be,Theo Walcott,Theo James Walcott,176.0,70.0,March 16 1989,England,Southampton
+333,c3e39f12,Fraser Forster,Fraser Gerard Forster,201.0,92.0,March 17 1988,England,Southampton
+334,36c2ca73,Alex McCarthy,Alex Simon McCarthy,193.0,82.0,December 3 1989,England,Southampton
+335,4b511457,Oriol Romeu,Oriol Romeu Vidal,183.0,83.0,September 24 1991,Spain,Southampton
+336,ab651565,Nathan Redmond,Nathan Daniel Jerome Redmond,173.0,75.0,March 6 1994,England,Southampton
+337,07802f7f,Danny Ings,Daniel William John Ings,178.0,73.0,July 23 1992,England,Southampton
+338,6adbc307,Jack Stephens,Jack Stephens,185.0,75.0,January 27 1994,England,Southampton
+339,97333cf5,Stuart Armstrong,Stuart Armstrong,183.0,68.0,March 30 1992,Scotland,Southampton
+340,1900032e,Jannik Vestergaard,Jannik Vestergaard,199.0,98.0,August 3 1992,Denmark,Southampton
+341,3515d404,James Ward-Prowse,James Michael Edward Ward-Prowse,173.0,66.0,November 1 1994,England,Southampton
+342,984a5a64,Kyle Walker-Peters,Kyle Walker-Peters,173.0,63.0,April 13 1997,England,Southampton
+343,4115ce4e,Jan Bednarek,Jan Bednarek,190.0,77.0,April 12 1996,Poland,Southampton
+344,30040f5d,Dan Nlundulu,Dan Nlundulu,185.0,75.0,February 5 1999,England,Southampton
+345,f2bf1b0f,Che Adams,Che Zach Everton Fred Adams,175.0,76.0,July 13 1996,Scotland,Southampton
+346,f1e94cd6,Nathan Tella,Nathan Tella,173.0,70.0,July 5 1999,England,Southampton
+347,5e105217,William Smallbone,William Smallbone,173.0,64.0,February 21 2000,Republic of Ireland,Southampton
+348,caa1a7f0,Michael Obafemi,Michael Obafemi,169.0,70.0,July 6 2000,Republic of Ireland,Southampton
+349,11ff3d56,Ibrahima Diallo,Ibrahima Diallo,179.0,70.0,March 8 1999,France,Southampton
+350,254147d4,Moussa Djenepo,Moussa Djenepo,177.0,65.0,June 15 1998,Mali,Southampton
+351,0b33f6ad,Mohammed Salisu,Mohammed Salisu,191.0,82.0,April 17 1999,Ghana,Southampton
+352,cb4f24c6,Joe Hart,Charles Joseph John Hart,196.0,91.0,April 19 1987,England,Tottenham Hotspur
+353,8f62b6ee,Hugo Lloris,Hugo Lloris,188.0,78.0,December 26 1986,France,Tottenham Hotspur
+354,2acd49b9,Moussa Sissoko,Moussa Sissoko,187.0,83.0,August 16 1989,France,Tottenham Hotspur
+355,f7d50789,Toby Alderweireld,Tobias Albertine Maurits Alderweireld,187.0,80.0,March 2 1989,Belgium,Tottenham Hotspur
+356,abe66106,Érik Lamela,Erik Manuel Lamela,184.0,72.0,March 4 1992,Argentina,Tottenham Hotspur
+357,21a66f6a,Harry Kane,Harry Edward Kane,188.0,73.0,July 28 1993,England,Tottenham Hotspur
+358,5c2b4f07,Serge Aurier,Serge Alain Stephane Aurier,176.0,76.0,December 24 1992,Côte d'Ivoire,Tottenham Hotspur
+359,92e7e919,Son Heung-min,손흥민,183.0,76.0,July 8 1992,Korea Republic,Tottenham Hotspur
+360,d557d734,Matt Doherty,Matthew James Doherty,182.0,76.0,January 16 1992,Republic of Ireland,Tottenham Hotspur
+361,ac861941,Eric Dier,Eric Jeremy Edgar Dier,188.0,88.0,January 15 1994,England,Tottenham Hotspur
+362,2b622f01,Lucas Moura,Lucas Rodrigues Moura da Silva,172.0,66.0,August 13 1992,Brazil,Tottenham Hotspur
+363,cea4ee8f,Dele Alli,Bamidele Jermaine Alli,188.0,76.0,April 11 1996,England,Tottenham Hotspur
+364,44781702,Ben Davies,Benjamin Thomas Davies,170.0,76.0,April 24 1993,Wales,Tottenham Hotspur
+365,8b04d6c1,Pierre Højbjerg,Pierre Emile Kordt Højbjerg,185.0,81.0,August 5 1995,Denmark,Tottenham Hotspur
+366,2f7acede,Harry Winks,Harry Winks,178.0,65.0,February 2 1996,England,Tottenham Hotspur
+367,da7b447d,Davinson Sánchez,Davinson Sánchez,188.0,77.0,June 12 1996,Colombia,Tottenham Hotspur
+368,6aa3e78b,Ryan Sessegnon,Ryan Sessegnon,170.0,70.0,May 18 2000,England,Tottenham Hotspur
+369,a29b1131,Steven Bergwijn,Steven Bergwijn,178.0,74.0,October 8 1997,Netherlands,Tottenham Hotspur
+370,3353737a,Sergio Reguilón,Sergio Reguilón,176.0,64.0,December 16 1996,Spain,Tottenham Hotspur
+371,e9971f2d,Japhet Tanganga,Japhet Tanganga,184.0,83.0,March 31 1999,England,Tottenham Hotspur
+372,d7553721,Giovani Lo Celso,Giovani Lo Celso,175.0,68.0,April 9 1996,Argentina,Tottenham Hotspur
+373,6250083a,Oliver Skipp,Oliver William Skipp,177.0,66.0,September 16 2000,England,Tottenham Hotspur
+374,8d62d31a,Joe Rodon,Joe Rodon,179.0,72.0,October 22 1997,Wales,Tottenham Hotspur
+375,5cdddffa,Tanguy Ndombele,Tanguy Ndombele,181.0,76.0,December 28 1996,France,Tottenham Hotspur
+376,d0b3ceb9,Ben Foster,Ben Anthony Foster,194.0,94.0,April 3 1983,England,Watford
+377,89d10e53,Danny Rose,Daniel Lee Rose,173.0,68.0,July 2 1990,England,Tottenham Hotspur
+378,7fec31a0,Dan Gosling,Daniel Gosling,178.0,71.0,February 1 1990,England,Watford
+379,89e4b358,Craig Cathcart,Craig George Cathcart,188.0,77.0,February 6 1989,Northern Ireland,Watford
+380,82e34b69,Troy Deeney,Troy Matthew Deeney,183.0,90.0,June 29 1988,England,Watford
+381,6cdd8245,Tom Cleverley,Thomas William Cleverley,175.0,71.0,August 12 1989,England,Watford
+382,e5d01ecf,Kiko Femenía,Francisco Femenía Far,174.0,61.0,February 2 1991,Spain,Watford
+383,c24dba2a,Andre Gray,Andre Anthony Gray,178.0,81.0,June 26 1991,Jamaica,Watford
+384,914ab9a1,Christian Kabasele,Christian Kabasele,187.0,82.0,February 24 1991,Belgium,Watford
+385,422862ea,Nathaniel Chalobah,Nathaniel Nyakie Chalobah,185.0,80.0,December 12 1994,England,Watford
+386,a0666d3e,Will Hughes,William James Hughes,185.0,73.0,April 17 1995,England,Watford
+387,7ed4921e,William Troost-Ekong,William Paul Troost-Ekong,191.0,82.0,September 1 1993,Nigeria,Watford
+388,269b4638,Stipe Perica,Stipe Perica,192.0,76.0,July 7 1995,Croatia,Watford
+389,1c0eea98,Daniel Bachmann,Daniel Bachmann,191.0,81.0,July 9 1994,Austria,Watford
+390,de0f152c,Adam Masina,Adam Masina,189.0,78.0,January 2 1994,Morocco,Watford
+391,1770bd68,Ken Sema,Ken Sema,177.0,69.0,September 30 1993,Sweden,Watford
+392,a5ea254c,Philip Zinckernagel,Philip Zinckernagel,175.0,70.0,December 16 1994,Denmark,Watford
+393,f573a8bf,Isaac Success,Isaac Success Ajayi,186.0,86.0,January 7 1996,Nigeria,Watford
+394,0666f848,Tom Dele-Bashiru,Ayotomiwa Sherif Dele-Bashiru,182.0,68.0,September 17 1999,Nigeria,Watford
+395,eeb6551f,Ashley Fletcher,Ashley Fletcher,185.0,79.0,October 2 1995,England,Watford
+396,0f933743,Francisco Sierralta,Francisco Sierralta,180.0,70.0,May 6 1997,Chile,Watford
+397,41fb0f4e,Domingos Quina,Domingos Quina,173.0,65.0,November 18 1999,Portugal,Watford
+398,c2846353,Marc Navarro,Marc Navarro,188.0,79.0,July 2 1995,Spain,Watford
+399,bfdb33aa,Ismaila Sarr,Ismaila Sarr,180.0,70.0,February 25 1998,Senegal,Watford
+400,3631ad41,Jeremy Ngakia,Jeremy Ngakia,184.0,77.0,September 7 2000,England,Watford
+401,2876eaa3,Ben Wilmot,Ben Wilmot,188.0,77.0,November 4 1999,England,Stoke City
+402,fdf9edec,Joseph Hungbo,Joseph Hungbo,,,January 15 2000,England,Watford
+403,e1df6989,Imran Louza,Imran Louza,178.0,65.0,May 1 1999,France,Nantes
+404,e8832875,João Pedro,João Pedro Junqueira de Jesus,182.0,70.0,September 26 2001,Brazil,Watford
+405,f240e4f2,Kwadwo Baah,Kwadwo Baah,181.0,75.0,January 27 2003,England,Watford
+406,ff527768,Mark Noble,Mark James Noble,180.0,76.0,May 8 1987,England,West Ham United
+407,6385ebfb,Darren Randolph,Darren Edward Andrew Randolph,188.0,98.0,May 12 1987,Republic of Ireland,West Ham United
+408,9328b835,Łukasz Fabiański,Łukasz Fabiański,190.0,83.0,April 18 1985,Poland,West Ham United
+409,74b2cd7e,Angelo Ogbonna,Angelo Obinze Ogbonna,191.0,86.0,May 23 1988,Italy,West Ham United
+410,562eed5c,Winston Reid,Winston Wiremu Reid,190.0,88.0,July 3 1988,New Zealand,West Ham United
+411,4f974391,Aaron Cresswell,Aaron William Cresswell,170.0,68.0,December 15 1989,England,West Ham United
+412,849c826a,Andriy Yarmolenko,Andriy Mykolaiovich Yarmolenko,189.0,81.0,October 23 1989,Ukraine,West Ham United
+413,ac05f970,Michail Antonio,Michail Gregory Antonio,180.0,82.0,March 28 1990,England,West Ham United
+414,3e9e06cb,Craig Dawson,Craig Dawson,188.0,82.0,May 6 1990,England,West Ham United
+415,c067631c,Ryan Fredericks,Ryan Marlowe B,181.0,72.0,October 10 1992,England,West Ham United
+416,26f6dca8,Manuel Lanzini,Manuel Lanzini,170.0,66.0,February 15 1993,Argentina,West Ham United
+417,57df7a11,Arthur Masuaku,Fuka Arthur Masuaku,179.0,70.0,November 7 1993,Congo DR,West Ham United
+418,fdf3cb77,Vladimír Coufal,Vladimír Coufal,174.0,70.0,August 22 1992,Czech Republic,West Ham United
+419,5a04fd92,Saïd Benrahma,Saïd Benrahma,172.0,67.0,August 10 1995,Algeria,West Ham United
+420,79c84d1c,Jarrod Bowen,Jarrod Bowen,178.0,70.0,December 20 1996,England,West Ham United
+421,1c7012b8,Declan Rice,Declan Rice,185.0,77.0,January 14 1999,England,West Ham United
+422,6613c819,Tomáš Souček,Tomáš Souček,190.0,84.0,February 27 1995,Czech Republic,West Ham United
+423,82927de4,Pablo Fornals,Pablo Fornals,178.0,67.0,February 22 1996,Spain,West Ham United
+424,a712ca2b,Issa Diop,Issa Diop,194.0,90.0,January 9 1997,France,West Ham United
+425,9319781b,Ben Johnson,Benjamin Johnson,170.0,68.0,January 24 2000,England,West Ham United
+426,f5a00fa4,João Moutinho,João Victor Filipe Iría Santos Moutinho Lagullón,171.0,61.0,September 8 1986,Portugal,Wolverhampton Wanderers
+427,79b0d6a0,Rui Patrício,Rui Pedro dos Santos Patrício,189.0,86.0,February 15 1988,Portugal,Wolverhampton Wanderers
+428,a4ac4b8f,Willy Boly,Willy Boly,195.0,81.0,February 3 1991,Côte d'Ivoire,Wolverhampton Wanderers
+429,2928dca2,Conor Coady,Conor David Coady,185.0,78.0,February 25 1993,England,Wolverhampton Wanderers
+430,b561db50,Raúl Jiménez,Raúl Alonso Jiménez Rodríguez,188.0,80.0,May 5 1991,Mexico,Wolverhampton Wanderers
+431,9fbbcf39,Romain Saïss,Romain Ghannam Saïss,190.0,76.0,March 26 1990,Morocco,Wolverhampton Wanderers
+432,9ae9eaea,Fernando Marçal,Fernando Marçal de Oliveira,178.0,72.0,February 19 1989,Brazil,Wolverhampton Wanderers
+433,e28868f3,Jonny Castro,Jonathan Castro Otto,175.0,70.0,March 3 1994,Spain,Wolverhampton Wanderers
+434,5a7301ae,Leander Dendoncker,Leander Dendoncker,178.0,83.0,April 15 1995,Belgium,Wolverhampton Wanderers
+435,9a28eba4,Adama Traoré,Adama Traoré Diarra,178.0,72.0,January 25 1996,Spain,Wolverhampton Wanderers
+436,44bfb6c5,Rúben Neves,Rúben Diogo da Silva Neves,180.0,80.0,March 13 1997,Portugal,Wolverhampton Wanderers
+437,d04b94db,Nélson Semedo,Nélson Cabral Semedo,177.0,65.0,November 16 1993,Portugal,Wolverhampton Wanderers
+438,7fcc71d8,Daniel Podence,Daniel Castelo Podence,165.0,58.0,October 21 1995,Portugal,Wolverhampton Wanderers
+439,d0f72bf1,Max Kilman,Max Kilman,192.0,78.0,May 23 1997,England,Wolverhampton Wanderers
+440,32f60ed8,Morgan Gibbs-White,Morgan Gibbs-White,177.0,67.0,January 27 2000,England,Wolverhampton Wanderers
+441,7ba2eaa9,Pedro Neto,Pedro Neto,173.0,62.0,March 9 2000,Portugal,Wolverhampton Wanderers
+442,6956ff08,Owen Otasowie,Owen Otasowie,188.0,88.0,April 20 2001,United States,Wolverhampton Wanderers
+443,9a71e978,Ki-Jana Hoever,Ki-Jana Delano Hoever,180.0,67.0,January 18 2002,Netherlands,Wolverhampton Wanderers
+444,43f9b4ba,Andreas Søndergaard,Andreas Søndergaard,189.0,78.0,January 17 2001,Denmark,Wolverhampton Wanderers
+445,e7aa9d7c,Fábio Silva,Fábio Daniel Soares Silva,185.0,73.0,July 19 2002,Portugal,Wolverhampton Wanderers
+446,1e159d70,Yerson Mosquera,Yerson Mosquera Valdelamar,,,May 2 2001,Colombia,Wolverhampton Wanderers
+447,ce5143da,Danny Welbeck,Daniel Nii Tackie Mensah Welbeck,185.0,72.0,November 26 1990,England,Brighton & Hove Albion
+448,e082af5b,Angus Gunn,Angus Fraser James Gunn,196.0,77.0,January 22 1996,England,Norwich City
+449,6c6a3300,Milot Rashica,Milot Rashica,177.0,73.0,June 28 1996,Kosovo,Norwich City
+450,2c44a35d,Emmanuel Dennis,Emmanuel Bonaventure Dennis,174.0,67.0,November 15 1997,Nigeria,Watford
+451,a8c19eb8,Nathan Collins,Nathan Michael Collins,193.0,81.0,April 30 2001,Republic of Ireland,Burnley
+452,da8b19e2,John Ruddy,John Thomas Gordon Ruddy,193.0,93.0,October 24 1986,England,Wolverhampton Wanderers
+453,101da2b5,Fernandinho,Fernando Luiz Rosa,175.0,66.0,May 4 1985,Brazil,Manchester City
+454,6681bcc8,Matthew Pollock,Matthew Pollock,,,September 28 2001,England,Watford
+455,ca45605e,Patson Daka,Patson Daka,180.0,71.0,October 9 1998,Zambia,Leicester City
+456,bcfb0142,Ben Gibson,Benjamin James Gibson,185.0,78.0,January 15 1993,England,Norwich City
+457,112c495e,Dimitris Giannoulis,Dimitrios Giannoulis,179.0,68.0,October 17 1995,Greece,Norwich City
+458,ae59b359,Boubakary Soumaré,Boubakary Soumaré,188.0,82.0,February 27 1999,France,Leicester City
+459,29733c72,Juan Mata,Juan Manuel Mata,170.0,63.0,April 28 1988,Spain,Manchester United
+460,6dfd8f05,Romain Perraud,Romain Perraud,173.0,68.0,September 22 1997,France,Southampton
+461,77e39b04,Francisco Trincão,Francisco Trincão,186.0,77.0,December 29 1999,Portugal,Braga
+462,1d5cab82,Enoch Mwepu,Enoch Mwepu,184.0,75.0,January 1 1998,Zambia,Brighton & Hove Albion
+463,24f59bb2,Junior Firpo,Héctor Junior Firpo Adamés,184.0,78.0,August 22 1996,Spain,Leeds United
+464,c4486bac,Michael Olise,Michael Olise,178.0,68.0,December 12 2001,France,Crystal Palace
+465,f25b010f,Federico Fernández,Federico Fernández,189.0,81.0,February 21 1989,Argentina,Newcastle United
+466,a65c844b,Nuno Tavares,Nuno Albertino Varela Tavares,184.0,79.0,January 26 2000,Portugal,Arsenal
+467,b579e83d,Oghenekaro Etebo,Etebo Peter Oghenekaro,176.0,70.0,November 9 1995,Nigeria,Watford
+468,43458538,Joshua King,Joshua Christian Kojo King,180.0,74.0,January 15 1992,Norway,Watford
+469,b7996fe0,Adedapo Awokoya-Mebude,Adedapo Awokoya-Mebude,,,July 29 2001,Scotland,Watford
+470,9b398aea,Rayan Aït Nouri,Rayan Aït Nouri,179.0,70.0,June 6 2001,France,Wolverhampton Wanderers
+471,f5044e54,Pierre Lees-Melou,Pierre Lees-Melou,185.0,67.0,May 25 1993,France,Norwich City
+472,71b47ab9,Cucho,Juan Camilo Hernández Suárez,175.0,73.0,April 20 1999,Colombia,Watford
+473,01226327,Ryan Bertrand,Ryan Dominic Bertrand,179.0,85.0,August 5 1989,England,Leicester City
+474,8a7ff278,Joel Ward,Joel Edward Philip Ward,188,82,October 29 1989,England,
+475,903b6e8b,José Sá,José Pedro Malheiro de Sá,192.0,86.0,January 17 1993,Portugal,Wolverhampton Wanderers
+476,f0e4c69e,Kjell Scherpen,Kjell Scherpen,204.0,99.0,January 23 2000,Netherlands,Brighton & Hove Albion
+477,d0706b27,Marc Guéhi,Marc Guéhi,182.0,82.0,July 13 2000,England,Crystal Palace
+478,1b4f1169,Albert Sambi Lokonga,Albert Sambi Lokonga,183.0,79.0,October 22 1999,Belgium,Arsenal
+479,2944f86f,Frank Onyeka,Frank Onyeka Ogochukwu,183,75,January 1 1998,Nigeria,Midtjylland
+480,76eca7e2,Wayne Hennessey,Wayne Robert Hennessey,196,85,January 24 1987,Wales,
+481,7b4de647,Asmir Begović,Asmir Begović,199,83,June 20 1987,Bosnia and Herzegovina,Bournemouth
+482,b28bbd58,Andros Townsend,Andros Darryl Townsend,183,77,July 16 1991,England,
