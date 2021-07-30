@@ -1,0 +1,163 @@
+[
+    {
+      "fpl_id": 1,
+      "fpl_name": "Arsenal",
+      "fbref_id": "18bb7c10",
+      "fbref_name": "Arsenal",
+      "understat_id": 83,
+      "understat_name": "Arsenal"
+    },
+    {
+      "fpl_id": 2,
+      "fpl_name": "Aston Villa",
+      "fbref_id": "8602292d",
+      "fbref_name": "Aston Villa",
+      "understat_id": 71,
+      "understat_name": "Aston Villa"
+    },
+    {
+      "fpl_id": 3,
+      "fpl_name": "Brentford",
+      "fbref_id": "cd051869",
+      "fbref_name": "Brentford",
+      "understat_id": -1,
+      "understat_name": "Brentford"
+    },
+    {
+      "fpl_id": 4,
+      "fpl_name": "Brighton",
+      "fbref_id": "d07537b9",
+      "fbref_name": "Brighton",
+      "understat_id": 220,
+      "understat_name": "Brighton"
+    },
+    {
+      "fpl_id": 5,
+      "fpl_name": "Burnley",
+      "fbref_id": "943e8050",
+      "fbref_name": "Burnley",
+      "understat_id": 92,
+      "understat_name": "Burnley"
+    },
+    {
+      "fpl_id": 6,
+      "fpl_name": "Chelsea",
+      "fbref_id": "cff3d9bb",
+      "fbref_name": "Chelsea",
+      "understat_id": 80,
+      "understat_name": "Chelsea"
+    },
+    {
+      "fpl_id": 7,
+      "fpl_name": "Crystal Palace",
+      "fbref_id": "47c64c55",
+      "fbref_name": "Crystal Palace",
+      "understat_id": 78,
+      "understat_name": "Crystal Palace"
+    },
+    {
+      "fpl_id": 8,
+      "fpl_name": "Everton",
+      "fbref_id": "d3fd31cc",
+      "fbref_name": "Everton",
+      "understat_id": 72,
+      "understat_name": "Everton"
+    },
+    {
+      "fpl_id": 9,
+      "fpl_name": "Leicester",
+      "fbref_id": "a2d435b3",
+      "fbref_name": "Leeds United",
+      "understat_id": 245,
+      "understat_name": "Leeds"
+    },
+    {
+      "fpl_id": 10,
+      "fpl_name": "Leeds",
+      "fbref_id": "5bfb9659",
+      "fbref_name": "Leicester City",
+      "understat_id": 75,
+      "understat_name": "Leicester"
+    },
+    {
+      "fpl_id": 11,
+      "fpl_name": "Liverpool",
+      "fbref_id": "822bd0ba",
+      "fbref_name": "Liverpool",
+      "understat_id": 87,
+      "understat_name": "Liverpool"
+    },
+    {
+      "fpl_id": 12,
+      "fpl_name": "Man City",
+      "fbref_id": "b8fd03ef",
+      "fbref_name": "Manchester City",
+      "understat_id": 88,
+      "understat_name": "Manchester City"
+    },
+    {
+      "fpl_id": 13,
+      "fpl_name": "Man Utd",
+      "fbref_id": "19538871",
+      "fbref_name": "Manchester Utd",
+      "understat_id": 89,
+      "understat_name": "Manchester United"
+    },
+    {
+      "fpl_id": 14,
+      "fpl_name": "Newcastle",
+      "fbref_id": "b2b47a98",
+      "fbref_name": "Newcastle Utd",
+      "understat_id": 86,
+      "understat_name": "Newcastle United"
+    },
+    {
+      "fpl_id": 15,
+      "fpl_name": "Norwich",
+      "fbref_id": "1c781004",
+      "fbref_name": "Norwich City",
+      "understat_id": 79,
+      "understat_name": "Norwich"
+    },
+    {
+      "fpl_id": 16,
+      "fpl_name": "Southampton",
+      "fbref_id": "33c895d4",
+      "fbref_name": "Southampton",
+      "understat_id": 74,
+      "understat_name": "Southampton"
+    },
+    {
+      "fpl_id": 17,
+      "fpl_name": "Spurs",
+      "fbref_id": "361ca564",
+      "fbref_name": "Tottenham",
+      "understat_id": 82,
+      "understat_name": "Tottenham"
+    },
+    {
+      "fpl_id": 18,
+      "fpl_name": "Watford",
+      "fbref_id": "2abfe087",
+      "fbref_name": "Watford",
+      "understat_id": 90,
+      "understat_name": "Watford"
+    },
+    {
+      "fpl_id": 19,
+      "fpl_name": "West Ham",
+      "fbref_id": "7c21e445",
+      "fbref_name": "West Ham",
+      "understat_id": 81,
+      "understat_name": "West Ham"
+    },
+    {
+      "fpl_id": 20,
+      "fpl_name": "Wolves",
+      "fbref_id": "8cec06e1",
+      "fbref_name": "Wolves",
+      "understat_id": 229,
+      "understat_name": "Wolverhampton Wanderers"
+    }
+  ]
+  
