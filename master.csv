@@ -31,7 +31,7 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost,fbref_i
 30,Emiliano,Martínez,Martínez,G,Aston Villa,5.5,5.5,7956236f,4401
 31,Björn,Engels,Engels,D,Aston Villa,4.5,4.5,4fdf1fd9,7152
 32,Bertrand,Traoré,Traoré,M,Aston Villa,6.0,6.0,c47541e0,695
-33,Jack,Grealish,Grealish,M,Aston Villa,8.0,8.0,b0b4fd3e,675
+33,Jack,Grealish,Grealish,M,Man City,8.0,8.0,b0b4fd3e,675
 34,Morgan,Sanson,Sanson,M,Aston Villa,5.0,5.0,6e7f1353,3696
 35,John,McGinn,McGinn,M,Aston Villa,6.0,6.0,90f91999,7723
 36,Kortney,Hause,Hause,D,Aston Villa,4.5,4.5,bf8fad51,6859
@@ -65,7 +65,7 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost,fbref_i
 64,Leandro,Trossard,Trossard,M,Brighton,6.5,6.5,38ceb24a,7698
 65,Mathew,Ryan,Ryan,G,Brighton,4.5,4.5,4535e4bb,2385
 66,Alireza,Jahanbakhsh,Jahanbakhsh,M,Brighton,5.5,5.5,08452314,6842
-67,Ben,White,White,D,Brighton,4.5,4.5,35e413f1,7298
+67,Ben,White,White,D,Arsenal,4.5,4.5,35e413f1,7298
 68,Bernardo,Fernandes Da Silva Junior,Bernardo,D,Brighton,4.0,4.0,17370b95,5245
 69,Robert,Sánchez,Sánchez,G,Brighton,4.5,4.5,6a713852,9098
 70,Yves,Bissouma,Bissouma,M,Brighton,4.5,4.5,6c203af0,5609
@@ -119,7 +119,7 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost,fbref_i
 118,Dwight,McNeil,McNeil,M,Burnley,6.0,6.0,fc15fb84,6756
 119,César,Azpilicueta,Azpilicueta,D,Chelsea,6.0,6.0,53cad200,681
 120,Olivier,Giroud,Giroud,F,Chelsea,6.5,6.5,16ceb862,502
-121,Thiago,Thiago,Thiago Silva,D,Chelsea,5.5,5.5,86e7deaf,3288
+121,Thiago,Emiliano da Silva,Thiago Silva,D,Chelsea,5.5,5.5,86e7deaf,3288
 122,Marcos,Alonso,Alonso,D,Chelsea,5.5,5.5,f4290206,1621
 123,Jorge Luiz,Frello Filho,Jorginho,M,Chelsea,6.0,6.0,45db685d,1389
 124,Ross,Barkley,Barkley,M,Chelsea,5.5,5.5,3a24769f,592
@@ -142,7 +142,7 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost,fbref_i
 141,Kai,Havertz,Havertz,M,Chelsea,8.5,8.5,fed7cb61,5220
 142,Reece,James,James,D,Chelsea,5.5,5.5,1265a93a,8067
 143,Edouard,Mendy,Mendy,G,Chelsea,6.0,6.0,33887998,6880
-144,Conor,Gallagher,Gallagher,M,Chelsea,5.5,5.5,c2731c10,9040
+144,Conor,Gallagher,Gallagher,M,Crystal Palace,5.5,5.5,c2731c10,9040
 145,Billy,Gilmour,Gilmour,M,Norwich,4.5,4.5,df10e27c,7988
 146,Vicente,Guaita,Guaita,G,Crystal Palace,4.5,4.5,ab13a5aa,2190
 147,James,Tomkins,Tomkins,D,Crystal Palace,4.5,4.5,e7ca0439,530
@@ -281,7 +281,7 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost,fbref_i
 280,Dean,Henderson,Henderson,G,Man Utd,5.0,5.0,e5a76dfe,7702
 281,Marcus,Rashford,Rashford,M,Man Utd,9.5,9.5,a1d5bd30,556
 282,Donny,van de Beek,van de Beek,M,Man Utd,6.0,6.0,50dc94ce,8821
-283,Axel,Tuanzebe,Tuanzebe,D,Man Utd,4.5,4.5,2baec6ce,934
+283,Axel,Tuanzebe,Tuanzebe,D,Aston Villa,4.5,4.5,2baec6ce,934
 284,Victor,Lindelöf,Lindelöf,D,Man Utd,5.0,5.0,f5deef4c,6080
 285,Scott,McTominay,McTominay,M,Man Utd,5.5,5.5,d93c2511,5560
 286,Eric,Bailly,Bailly,D,Man Utd,5.0,5.0,a1232f4e,1739
@@ -335,7 +335,7 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost,fbref_i
 334,Alex,McCarthy,McCarthy,G,Southampton,4.5,4.5,36c2ca73,635
 335,Oriol,Romeu Vidal,Romeu,M,Southampton,4.5,4.5,4b511457,842
 336,Nathan,Redmond,Redmond,M,Southampton,6.0,6.0,ab651565,790
-337,Danny,Ings,Ings,F,Southampton,8.0,8.0,07802f7f,986
+337,Danny,Ings,Ings,F,Aston Villa,8.0,8.0,07802f7f,986
 338,Jack,Stephens,Stephens,D,Southampton,4.5,4.5,6adbc307,1735
 339,Stuart,Armstrong,Armstrong,M,Southampton,6.0,6.0,97333cf5,6893
 340,Jannik,Vestergaard,Vestergaard,D,Southampton,5.0,5.0,1900032e,111
@@ -481,3 +481,44 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost,fbref_i
 480,Wayne,Hennessey,Hennessey,G,Burnley,4.5,4.5,76eca7e2,509
 481,Asmir,Begović,Begović,G,Everton,4.0,4.0,7b4de647,694
 482,Andros,Townsend,Townsend,M,Everton,5.5,5.5,b28bbd58,775
+483,Kristoffer,Ajer,Ajer,D,Brentford,4.5,4.5,a8c0acb7,0
+484,Demarai,Gray,Gray,M,Everton,5.5,5.5,4468ec10,762
+485,Jadon,Sancho,Sancho,M,Man Utd,9.5,9.5,dbf053da,6345
+486,Pierluigi,Gollini,Gollini,G,Spurs,4.5,4.5,f0f7f62f,1841
+487,Bryan,Gil Salvatierra,Bryan,M,Spurs,6.0,6.0,7b5ab7f2,7338
+488,Joachim,Andersen,Andersen,D,Crystal Palace,4.5,4.5,e34fc66d,6314
+489,Alphonse,Areola,Areola,G,West Ham,5.0,5.0,2f965a72,2310
+490,Kristoffer,Klaesson,Klaesson,G,Leeds,4.5,4.5,3f70db80,0
+491,Tino,Livramento,Livramento,D,Southampton,4.0,4.0,afed6722,0
+492,Leon,Bailey,Bailey,M,Aston Villa,6.5,6.5,3a233281,5221
+493,Nathaniel,Clyne,Clyne,D,Crystal Palace,4.5,4.5,0442183b,603
+494,Cristian,Romero,Romero,D,Spurs,5.0,5.0,a3d94a58,7218
+495,Juraj,Kucka,Kucka,M,Watford,5.5,5.5,5aaef9ef,1123
+496,Aaron,Ramsey,Ramsey,M,Aston Villa,4.5,4.5,e1618c22,0
+497,Jaden,Philogene-Bidace,Philogene-Bidace,M,Aston Villa,5.0,5.0,19f4d211,9415
+498,Dominic,Thompson,Thompson,D,Brentford,4.5,4.5,235a62f8,0
+499,Shandon,Baptiste,Baptiste,M,Brentford,5.0,5.0,2886c9b5,0
+500,Florin,Andone,Andone,F,Brighton,5.0,5.0,dc008610,4068
+501,Malang,Sarr,Sarr,D,Chelsea,5.0,5.0,4315f30d,5648
+502,Jonjoe,Kenny,Kenny,D,Everton,4.5,4.5,099e666f,1084
+503,Anthony,Gordon,Gordon,M,Everton,4.5,4.5,2bd83368,8150
+504,Jean-Philippe,Gbamin,Gbamin,M,Everton,4.5,4.5,6bd603db,4764
+505,Kiernan,Dewsbury-Hall,Dewsbury-Hall,M,Leicester,4.5,4.5,5c74c0f5,0
+506,Harvey,Elliott,Elliott,M,Liverpool,5.5,5.5,c8387671,7546
+507,Cole,Palmer,Palmer,M,Man City,4.5,4.5,dc7f8a28,0
+508,Samuel,Edozie,Edozie,M,Man City,5.0,5.0,007414dd,0
+509,Tom,Heaton,Heaton,G,Man Utd,4.0,4.0,a6de6361,1651
+510,José Diogo,Dalot Teixeira,Dalot,D,Man Utd,4.5,4.5,d9565625,7281
+511,Andreas,Pereira,Pereira,M,Man Utd,5.0,5.0,6639e500,922
+512,Anthony,Elanga,Elanga,M,Man Utd,5.0,5.0,2fba6108,9524
+513,Freddie,Woodman,Woodman,G,Newcastle,4.5,4.5,19e50035,0
+514,Mark,Gillespie,Gillespie,G,Newcastle,4.0,4.0,e32958b7,0
+515,Bali,Mumba,Mumba,D,Norwich,4.0,4.0,2d760d7b,0
+516,Joshua,Sargent,Sargent,F,Norwich,5.5,5.5,a8d4428b,7295
+517,Mohamed,Elyounoussi,Elyounoussi,M,Southampton,5.5,5.5,68dc0dac,6894
+518,Armando,Broja,Broja,F,Southampton,5.0,5.0,97220da2,8384
+519,Shane,Long,Long,F,Southampton,5.5,5.5,9f472354,839
+520,Dane,Scarlett,Scarlett,F,Spurs,4.5,4.5,21945a9e,9332
+521,Frederik,Alves,Alves,D,West Ham,4.0,4.0,95827107,0
+522,Conor,Coventry,Coventry,M,West Ham,4.5,4.5,a5ca9127,0
+523,Patrick,Cutrone,Cutrone,F,Wolves,5.0,5.0,a4fe8cda,4918
