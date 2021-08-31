@@ -3,22 +3,22 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 2,Rúnar Alex,Rúnarsson,Rúnarsson,G,Arsenal,4.0,4.0
 3,Willian,Borges Da Silva,Willian,M,Arsenal,6.5,6.3
 4,Pierre-Emerick,Aubameyang,Aubameyang,F,Arsenal,10.0,9.9
-5,Cédric,Soares,Cédric,D,Arsenal,4.5,4.5
+5,Cédric,Soares,Cédric,D,Arsenal,4.5,4.4
 6,Alexandre,Lacazette,Lacazette,F,Arsenal,8.5,8.4
 7,Granit,Xhaka,Xhaka,M,Arsenal,5.0,5.0
 8,Pablo,Marí,Marí,D,Arsenal,4.5,4.5
-9,Héctor,Bellerín,Bellerín,D,Arsenal,5.0,4.9
+9,Héctor,Bellerín,Bellerín,D,Arsenal,5.0,4.8
 10,Calum,Chambers,Chambers,D,Arsenal,4.5,4.4
 11,Sead,Kolasinac,Kolasinac,D,Arsenal,4.5,4.4
 12,Mohamed Naser,El Sayed Elneny,Elneny,M,Arsenal,4.5,4.5
 13,Ainsley,Maitland-Niles,Maitland-Niles,M,Arsenal,5.5,5.4
-14,Rob,Holding,Holding,D,Arsenal,4.5,4.4
+14,Rob,Holding,Holding,D,Arsenal,4.5,4.3
 15,Thomas,Partey,Partey,M,Arsenal,5.0,5.0
-16,Kieran,Tierney,Tierney,D,Arsenal,5.0,5.0
+16,Kieran,Tierney,Tierney,D,Arsenal,5.0,4.9
 17,Nicolas,Pépé,Pépé,M,Arsenal,7.5,7.3
 18,Lucas,Torreira,Torreira,M,Arsenal,4.5,4.5
 19,Joseph,Willock,Willock,M,Newcastle,6.0,6.0
-20,Edward,Nketiah,Nketiah,F,Arsenal,5.5,5.5
+20,Edward,Nketiah,Nketiah,F,Arsenal,5.5,5.4
 21,Emile,Smith Rowe,Smith Rowe,M,Arsenal,5.5,5.4
 22,Bukayo,Saka,Saka,M,Arsenal,6.5,6.3
 23,Gabriel,Magalhães,Gabriel,D,Arsenal,5.0,5.0
@@ -34,7 +34,7 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 33,Jack,Grealish,Grealish,M,Man City,8.0,8.0
 34,Morgan,Sanson,Sanson,M,Aston Villa,5.0,5.0
 35,John,McGinn,McGinn,M,Aston Villa,6.0,6.0
-36,Kortney,Hause,Hause,D,Aston Villa,4.5,4.5
+36,Kortney,Hause,Hause,D,Aston Villa,4.5,4.4
 37,Mahmoud Ahmed,Ibrahim Hassan,Trézéguet,M,Aston Villa,5.5,5.5
 38,Tyrone,Mings,Mings,D,Aston Villa,5.0,5.0
 39,Matt,Targett,Targett,D,Aston Villa,5.0,4.9
@@ -68,7 +68,7 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 67,Ben,White,White,D,Arsenal,4.5,4.4
 68,Bernardo,Fernandes Da Silva Junior,Bernardo,D,Brighton,4.0,4.0
 69,Robert,Sánchez,Sánchez,G,Brighton,4.5,4.5
-70,Yves,Bissouma,Bissouma,M,Brighton,4.5,4.5
+70,Yves,Bissouma,Bissouma,M,Brighton,4.5,4.6
 71,Tariq,Lamptey,Lamptey,D,Brighton,4.5,4.5
 72,Aaron,Connolly,Connolly,F,Brighton,5.5,5.5
 73,Steven,Alzate,Alzate,M,Brighton,5.0,5.0
@@ -76,8 +76,8 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 75,Jakub,Moder,Moder,M,Brighton,4.5,4.5
 76,Pontus,Jansson,Jansson,D,Brentford,4.5,4.5
 77,Christian,Nørgaard,Nørgaard,M,Brentford,5.0,5.0
-78,Ivan,Toney,Toney,F,Brentford,6.5,6.5
-79,Tariqe,Fosu-Henry,Fosu,M,Brentford,5.5,5.4
+78,Ivan,Toney,Toney,F,Brentford,6.5,6.4
+79,Tariqe,Fosu-Henry,Fosu,M,Brentford,5.5,5.3
 80,David,Raya Martin,Raya,G,Brentford,4.5,4.5
 81,Sergi,Canós,Canós,M,Brentford,5.5,5.5
 82,Pelenda Joshua,Dasilva,Dasilva,M,Brentford,5.5,5.4
@@ -98,14 +98,14 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 97,Mads,Bidstrup,Bidstrup,M,Brentford,4.5,4.5
 98,James,Tarkowski,Tarkowski,D,Burnley,5.0,5.0
 99,Phil,Bardsley,Bardsley,D,Burnley,4.0,4.0
-100,Erik,Pieters,Pieters,D,Burnley,4.5,4.5
+100,Erik,Pieters,Pieters,D,Burnley,4.5,4.4
 101,Jack,Cork,Cork,M,Burnley,4.5,4.5
 102,Dale,Stephens,Stephens,M,Burnley,4.5,4.5
 103,Kevin,Long,Long,D,Burnley,4.0,4.0
 104,Jay,Rodriguez,Rodriguez,F,Burnley,5.5,5.5
 105,Ashley,Barnes,Barnes,F,Burnley,5.5,5.5
 106,Ben,Mee,Mee,D,Burnley,5.0,5.0
-107,Ashley,Westwood,Westwood,M,Burnley,5.5,5.5
+107,Ashley,Westwood,Westwood,M,Burnley,5.5,5.4
 108,Johann Berg,Gudmundsson,Gudmundsson,M,Burnley,5.5,5.5
 109,Chris,Wood,Wood,F,Burnley,7.0,6.9
 110,Matthew,Lowton,Lowton,D,Burnley,4.5,4.5
@@ -120,22 +120,22 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 119,César,Azpilicueta,Azpilicueta,D,Chelsea,6.0,6.0
 120,Olivier,Giroud,Giroud,F,Chelsea,6.5,6.5
 121,Thiago,Emiliano da Silva,Thiago Silva,D,Chelsea,5.5,5.4
-122,Marcos,Alonso,Alonso,D,Chelsea,5.5,5.6
+122,Marcos,Alonso,Alonso,D,Chelsea,5.5,5.7
 123,Jorge Luiz,Frello Filho,Jorginho,M,Chelsea,6.0,6.0
 124,Ross,Barkley,Barkley,M,Chelsea,5.5,5.4
 125,Mateo,Kovacic,Kovacic,M,Chelsea,5.0,5.0
 126,Michy,Batshuayi,Batshuayi,F,Chelsea,5.5,5.5
 127,Antonio,Rüdiger,Rüdiger,D,Chelsea,5.5,5.5
-128,Kurt,Zouma,Zouma,D,Chelsea,5.5,5.4
+128,Kurt,Zouma,Zouma,D,West Ham,5.5,5.4
 129,Kepa,Arrizabalaga,Arrizabalaga,G,Chelsea,5.0,4.9
 130,N'Golo,Kanté,Kanté,M,Chelsea,5.0,4.9
 131,Hakim,Ziyech,Ziyech,M,Chelsea,7.5,7.4
 132,Ruben,Loftus-Cheek,Loftus-Cheek,M,Chelsea,5.5,5.4
 133,Andreas,Christensen,Christensen,D,Chelsea,5.0,5.0
-134,Timo,Werner,Werner,F,Chelsea,9.0,8.8
+134,Timo,Werner,Werner,F,Chelsea,9.0,8.7
 135,Benjamin,Chilwell,Chilwell,D,Chelsea,6.0,5.8
 136,Tammy,Abraham,Abraham,F,Chelsea,6.5,6.5
-137,Christian,Pulisic,Pulisic,M,Chelsea,8.0,8.0
+137,Christian,Pulisic,Pulisic,M,Chelsea,8.0,7.9
 138,Mason,Mount,Mount,M,Chelsea,7.5,7.5
 139,Ethan,Ampadu,Ampadu,D,Chelsea,4.5,4.5
 140,Callum,Hudson-Odoi,Hudson-Odoi,M,Chelsea,5.5,5.4
@@ -145,20 +145,20 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 144,Conor,Gallagher,Gallagher,M,Crystal Palace,5.5,5.5
 145,Billy,Gilmour,Gilmour,M,Norwich,4.5,4.5
 146,Vicente,Guaita,Guaita,G,Crystal Palace,4.5,4.5
-147,James,Tomkins,Tomkins,D,Crystal Palace,4.5,4.5
+147,James,Tomkins,Tomkins,D,Crystal Palace,4.5,4.4
 148,James,McArthur,McArthur,M,Crystal Palace,4.5,4.5
 149,Christian,Benteke,Benteke,F,Crystal Palace,6.5,6.4
 150,Cheikhou,Kouyaté,Kouyaté,D,Crystal Palace,4.5,4.5
 151,Martin,Kelly,Kelly,D,Crystal Palace,4.0,4.0
 152,Luka,Milivojevic,Milivojevic,M,Crystal Palace,5.5,5.4
 153,Jordan,Ayew,Ayew,F,Crystal Palace,6.0,6.0
-154,Wilfried,Zaha,Zaha,M,Crystal Palace,7.0,7.0
+154,Wilfried,Zaha,Zaha,M,Crystal Palace,7.0,6.9
 155,Jeffrey,Schlupp,Schlupp,M,Crystal Palace,5.5,5.5
 156,Jack,Butland,Butland,G,Crystal Palace,4.5,4.5
-157,Jairo,Riedewald,Riedewald,M,Crystal Palace,5.0,5.0
-158,Jarosław,Jach,Jach,D,Crystal Palace,4.5,4.5
+157,Jairo,Riedewald,Riedewald,M,Crystal Palace,5.0,4.9
+158,Jarosław,Jach,Jach,D,Crystal Palace,4.5,4.4
 159,Jean-Philippe,Mateta,Mateta,F,Crystal Palace,5.5,5.5
-160,Eberechi,Eze,Eze,M,Crystal Palace,6.0,6.0
+160,Eberechi,Eze,Eze,M,Crystal Palace,6.0,5.9
 161,Nathan,Ferguson,Ferguson,D,Crystal Palace,4.5,4.5
 162,Tyrick,Mitchell,Mitchell,D,Crystal Palace,4.5,4.5
 163,Fabian,Delph,Delph,M,Everton,4.5,4.5
@@ -166,7 +166,7 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 165,Seamus,Coleman,Coleman,D,Everton,5.0,5.0
 166,James,Rodríguez,James,M,Everton,7.0,6.9
 167,Bernard,Anício Caldeira Duarte,Bernard,M,Everton,5.5,5.5
-168,Lucas,Digne,Digne,D,Everton,5.5,5.5
+168,Lucas,Digne,Digne,D,Everton,5.5,5.4
 169,Michael,Keane,Keane,D,Everton,5.0,5.0
 170,Jordan,Pickford,Pickford,G,Everton,5.0,5.0
 171,Allan,Marques Loureiro,Allan,M,Everton,4.5,4.5
@@ -174,7 +174,7 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 173,Abdoulaye,Doucouré,Doucouré,M,Everton,5.5,5.5
 174,Alex,Iwobi,Iwobi,M,Everton,6.0,6.0
 175,Yerry,Mina,Mina,D,Everton,5.0,5.0
-176,Tom,Davies,Davies,M,Everton,5.0,5.0
+176,Tom,Davies,Davies,M,Everton,5.0,4.9
 177,Dominic,Calvert-Lewin,Calvert-Lewin,F,Everton,8.0,8.2
 178,Mason,Holgate,Holgate,D,Everton,4.5,4.5
 179,Ben,Godfrey,Godfrey,D,Everton,5.0,4.9
@@ -192,14 +192,14 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 191,Kalvin,Phillips,Phillips,M,Leeds,5.0,5.0
 192,Hélder Wander,Sousa de Azevedo e Costa,Costa,M,Leeds,5.5,5.4
 193,Tyler,Roberts,Roberts,M,Leeds,5.0,5.0
-194,Robin,Koch,Koch,D,Leeds,4.5,4.5
+194,Robin,Koch,Koch,D,Leeds,4.5,4.4
 195,Ian Carlo,Poveda-Ocampo,Poveda,M,Leeds,4.5,4.5
 196,Raphael,Dias Belloli,Raphinha,M,Leeds,6.5,6.5
 197,Jamie,Shackleton,Shackleton,M,Leeds,4.5,4.5
 198,Pascal,Struijk,Struijk,D,Leeds,4.5,4.5
 199,Illan,Meslier,Meslier,G,Leeds,5.0,5.0
 200,Kasper,Schmeichel,Schmeichel,G,Leicester,5.0,5.0
-201,Jonny,Evans,Evans,D,Leicester,5.5,5.5
+201,Jonny,Evans,Evans,D,Leicester,5.5,5.4
 202,Marc,Albrighton,Albrighton,M,Leicester,5.5,5.4
 203,Nampalys,Mendy,Mendy,M,Leicester,4.5,4.5
 204,Danny,Ward,Ward,G,Leicester,4.0,4.0
@@ -209,9 +209,9 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 208,Daniel,Amartey,Amartey,D,Leicester,4.0,4.1
 209,Timothy,Castagne,Castagne,D,Leicester,5.5,5.4
 210,Youri,Tielemans,Tielemans,M,Leicester,6.5,6.5
-211,Ayoze,Pérez,Pérez,M,Leicester,6.0,6.0
+211,Ayoze,Pérez,Pérez,M,Leicester,6.0,5.9
 212,James,Maddison,Maddison,M,Leicester,7.0,6.9
-213,Kelechi,Iheanacho,Iheanacho,F,Leicester,7.5,7.3
+213,Kelechi,Iheanacho,Iheanacho,F,Leicester,7.5,7.2
 214,Hamza,Choudhury,Choudhury,M,Leicester,4.5,4.5
 215,Harvey,Barnes,Barnes,M,Leicester,7.0,6.9
 216,Wilfred,Ndidi,Ndidi,M,Leicester,5.0,5.0
@@ -225,15 +225,15 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 224,Joel,Matip,Matip,D,Liverpool,5.0,5.0
 225,Thiago,Alcántara do Nascimento,Thiago,M,Liverpool,5.5,5.4
 226,Xherdan,Shaqiri,Shaqiri,M,Liverpool,6.0,5.9
-227,Alex,Oxlade-Chamberlain,Chamberlain,M,Liverpool,6.0,6.0
+227,Alex,Oxlade-Chamberlain,Chamberlain,M,Liverpool,6.0,5.9
 228,Roberto,Firmino,Firmino,F,Liverpool,9.0,8.9
 229,Virgil,van Dijk,van Dijk,D,Liverpool,6.5,6.5
 230,Sadio,Mané,Mané,M,Liverpool,12.0,11.9
 231,Alisson,Ramses Becker,Alisson,G,Liverpool,6.0,6.0
-232,Fabio Henrique,Tavares,Fabinho,M,Liverpool,5.5,5.5
-233,Mohamed,Salah,Salah,M,Liverpool,12.5,12.6
+232,Fabio Henrique,Tavares,Fabinho,M,Liverpool,5.5,5.4
+233,Mohamed,Salah,Salah,M,Liverpool,12.5,12.5
 234,Andrew,Robertson,Robertson,D,Liverpool,7.0,7.0
-235,Divock,Origi,Origi,F,Liverpool,5.0,5.0
+235,Divock,Origi,Origi,F,Liverpool,5.0,4.9
 236,Takumi,Minamino,Minamino,M,Liverpool,5.5,5.3
 237,Trent,Alexander-Arnold,Alexander-Arnold,D,Liverpool,7.5,7.5
 238,Joseph,Gomez,Gomez,D,Liverpool,5.0,4.9
@@ -248,12 +248,12 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 247,Rhys,Williams,R.Williams,D,Liverpool,4.5,4.4
 248,Ben,Davies,Davies,D,Liverpool,4.0,4.0
 249,Kyle,Walker,Walker,D,Man City,5.5,5.5
-250,Ilkay,Gündogan,Gündogan,M,Man City,7.5,7.4
-251,Kevin,De Bruyne,De Bruyne,M,Man City,12.0,12.0
+250,Ilkay,Gündogan,Gündogan,M,Man City,7.5,7.3
+251,Kevin,De Bruyne,De Bruyne,M,Man City,12.0,11.9
 252,John,Stones,Stones,D,Man City,5.5,5.4
-253,Benjamin,Mendy,Mendy,D,Man City,5.5,5.5
-254,Riyad,Mahrez,Mahrez,M,Man City,9.0,9.0
-255,Raheem,Sterling,Sterling,M,Man City,11.0,11.0
+253,Benjamin,Mendy,Mendy,D,Man City,5.5,5.4
+254,Riyad,Mahrez,Mahrez,M,Man City,9.0,8.9
+255,Raheem,Sterling,Sterling,M,Man City,11.0,10.9
 256,João Pedro Cavaco,Cancelo,Cancelo,D,Man City,6.0,6.0
 257,Ederson,Santana de Moraes,Ederson,G,Man City,6.0,6.0
 258,Nathan,Aké,Aké,D,Man City,5.0,5.0
@@ -266,7 +266,7 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 265,Phil,Foden,Foden,M,Man City,8.0,7.9
 266,Rodrigo,Hernandez,Rodrigo,M,Man City,5.5,5.5
 267,Jack,Harrison,Harrison,M,Leeds,6.0,5.9
-268,Ferran,Torres,Torres,M,Man City,7.0,7.0
+268,Ferran,Torres,Torres,M,Man City,7.0,7.1
 269,Edinson,Cavani,Cavani,F,Man Utd,8.5,8.5
 270,David,de Gea,de Gea,G,Man Utd,5.0,5.0
 271,Nemanja,Matic,Matic,M,Man Utd,4.5,4.5
@@ -280,10 +280,10 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 279,Alex Nicolao,Telles,Telles,D,Man Utd,5.0,5.0
 280,Dean,Henderson,Henderson,G,Man Utd,5.0,4.9
 281,Marcus,Rashford,Rashford,M,Man Utd,9.5,9.4
-282,Donny,van de Beek,van de Beek,M,Man Utd,6.0,5.9
+282,Donny,van de Beek,van de Beek,M,Man Utd,6.0,5.8
 283,Axel,Tuanzebe,Tuanzebe,D,Aston Villa,4.5,4.5
 284,Victor,Lindelöf,Lindelöf,D,Man Utd,5.0,5.0
-285,Scott,McTominay,McTominay,M,Man Utd,5.5,5.5
+285,Scott,McTominay,McTominay,M,Man Utd,5.5,5.4
 286,Eric,Bailly,Bailly,D,Man Utd,5.0,5.0
 287,Daniel,James,James,M,Man Utd,6.0,6.0
 288,Aaron,Wan-Bissaka,Wan-Bissaka,D,Man Utd,5.5,5.5
@@ -291,7 +291,7 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 290,Brandon,Williams,Williams,D,Norwich,4.0,4.0
 291,Jonjo,Shelvey,Shelvey,M,Newcastle,5.5,5.4
 292,Matt,Ritchie,Ritchie,D,Newcastle,5.0,5.0
-293,Ciaran,Clark,Clark,D,Newcastle,4.5,4.5
+293,Ciaran,Clark,Clark,D,Newcastle,4.5,4.4
 294,Karl,Darlow,Darlow,G,Newcastle,4.5,4.5
 295,Martin,Dubravka,Dubravka,G,Newcastle,4.5,4.5
 296,Callum,Wilson,Wilson,F,Newcastle,7.5,7.5
@@ -301,9 +301,9 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 300,Dwight,Gayle,Gayle,F,Newcastle,5.5,5.4
 301,Paul,Dummett,Dummett,D,Newcastle,4.5,4.5
 302,Javier,Manquillo,Manquillo,D,Newcastle,4.0,4.0
-303,Emil,Krafth,Krafth,D,Newcastle,4.5,4.5
+303,Emil,Krafth,Krafth,D,Newcastle,4.5,4.4
 304,Jacob,Murphy,Murphy,M,Newcastle,5.0,5.0
-305,Fabian,Schär,Schär,D,Newcastle,4.5,4.5
+305,Fabian,Schär,Schär,D,Newcastle,4.5,4.4
 306,Isaac,Hayden,Hayden,M,Newcastle,4.5,4.5
 307,Allan,Saint-Maximin,Saint-Maximin,F,Newcastle,6.5,6.5
 308,Miguel,Almirón,Almirón,M,Newcastle,5.5,5.5
@@ -319,18 +319,18 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 318,Kenny,McLean,McLean,M,Norwich,5.0,4.9
 319,Grant,Hanley,Hanley,D,Norwich,4.5,4.5
 320,Onel,Hernández,Hernández,M,Norwich,5.0,4.9
-321,Sam,Byram,Byram,D,Norwich,4.5,4.5
+321,Sam,Byram,Byram,D,Norwich,4.5,4.4
 322,Jordan,Hugill,Hugill,F,Norwich,5.5,5.4
 323,Kieran,Dowell,Dowell,M,Norwich,5.5,5.4
-324,Christoph,Zimmermann,Zimmermann,D,Norwich,4.5,4.5
+324,Christoph,Zimmermann,Zimmermann,D,Norwich,4.5,4.4
 325,Todd,Cantwell,Cantwell,M,Norwich,5.5,5.5
 326,Max,Aarons,Aarons,D,Norwich,4.5,4.5
-327,Jacob,Sørensen,Sørensen,D,Norwich,4.5,4.5
+327,Jacob,Sørensen,Sørensen,D,Norwich,4.5,4.4
 328,Przemyslaw,Placheta,Placheta,M,Norwich,5.0,4.9
 329,Adam,Idah,Idah,F,Norwich,5.0,5.0
 330,Josh,Martin,Martin,M,Norwich,5.0,5.0
 331,Andrew,Omobamidele,Omobamidele,D,Norwich,4.0,4.0
-332,Theo,Walcott,Walcott,M,Southampton,6.0,6.0
+332,Theo,Walcott,Walcott,M,Southampton,6.0,5.9
 333,Fraser,Forster,Forster,G,Southampton,4.5,4.5
 334,Alex,McCarthy,McCarthy,G,Southampton,4.5,4.5
 335,Oriol,Romeu Vidal,Romeu,M,Southampton,4.5,4.5
@@ -338,10 +338,10 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 337,Danny,Ings,Ings,F,Aston Villa,8.0,8.1
 338,Jack,Stephens,Stephens,D,Southampton,4.5,4.5
 339,Stuart,Armstrong,S.Armstrong,M,Southampton,6.0,5.9
-340,Jannik,Vestergaard,Vestergaard,D,Leicester,5.0,5.0
+340,Jannik,Vestergaard,Vestergaard,D,Leicester,5.0,4.9
 341,James,Ward-Prowse,Ward-Prowse,M,Southampton,6.5,6.5
 342,Kyle,Walker-Peters,Walker-Peters,D,Southampton,5.0,4.9
-343,Jan,Bednarek,Bednarek,D,Southampton,4.5,4.5
+343,Jan,Bednarek,Bednarek,D,Southampton,4.5,4.4
 344,Daniel,N'Lundulu,Nlundulu,F,Southampton,4.5,4.5
 345,Che,Adams,Adams,F,Southampton,7.0,7.0
 346,Nathan,Tella,Tella,M,Southampton,5.0,4.9
@@ -351,18 +351,18 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 350,Moussa,Djenepo,Djenepo,M,Southampton,5.5,5.5
 351,Mohammed,Salisu,Salisu,D,Southampton,4.5,4.5
 352,Joe,Hart,Hart,G,Spurs,4.5,4.5
-353,Hugo,Lloris,Lloris,G,Spurs,5.5,5.5
-354,Moussa,Sissoko,Sissoko,M,Spurs,4.5,4.5
+353,Hugo,Lloris,Lloris,G,Spurs,5.5,5.6
+354,Moussa,Sissoko,Sissoko,M,Watford,4.5,4.5
 355,Toby,Alderweireld,Alderweireld,D,Spurs,5.0,5.0
 356,Erik,Lamela,Lamela,M,Spurs,6.0,6.0
 357,Harry,Kane,Kane,F,Spurs,12.5,12.3
 358,Serge,Aurier,Aurier,D,Spurs,5.0,4.9
 359,Heung-Min,Son,Son,M,Spurs,10.0,10.1
 360,Matt,Doherty,Doherty,D,Spurs,5.0,4.9
-361,Eric,Dier,Dier,D,Spurs,4.5,4.5
+361,Eric,Dier,Dier,D,Spurs,4.5,4.6
 362,Lucas,Rodrigues Moura da Silva,Lucas Moura,M,Spurs,6.5,6.5
 363,Bamidele,Alli,Dele,M,Spurs,6.5,6.5
-364,Ben,Davies,Davies,D,Spurs,4.5,4.5
+364,Ben,Davies,Davies,D,Spurs,4.5,4.4
 365,Pierre-Emile,Højbjerg,Højbjerg,M,Spurs,5.0,5.0
 366,Harry,Winks,Winks,M,Spurs,4.5,4.5
 367,Davinson,Sánchez,Sánchez,D,Spurs,4.5,4.5
@@ -372,8 +372,8 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 371,Japhet,Tanganga,Tanganga,D,Spurs,4.5,4.5
 372,Giovani,Lo Celso,Lo Celso,M,Spurs,6.0,5.9
 373,Oliver,Skipp,Skipp,M,Spurs,4.5,4.5
-374,Joe,Rodon,Rodon,D,Spurs,4.5,4.5
-375,Tanguy,Ndombele,Ndombele,M,Spurs,6.0,5.9
+374,Joe,Rodon,Rodon,D,Spurs,4.5,4.4
+375,Tanguy,Ndombele,Ndombele,M,Spurs,6.0,5.8
 376,Ben,Foster,Foster,G,Watford,4.0,4.0
 377,Danny,Rose,Rose,D,Watford,4.5,4.4
 378,Dan,Gosling,Gosling,M,Watford,5.0,4.9
@@ -384,16 +384,16 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 383,Andre,Gray,Gray,F,Watford,5.5,5.4
 384,Christian,Kabasele,Kabasele,D,Watford,4.5,4.5
 385,Nathaniel,Chalobah,Chalobah,M,Watford,5.0,5.0
-386,Will,Hughes,Hughes,M,Watford,5.0,4.9
+386,Will,Hughes,Hughes,M,Crystal Palace,5.0,4.9
 387,William,Troost-Ekong,Troost-Ekong,D,Watford,4.5,4.5
 388,Stipe,Perica,Perica,F,Watford,4.5,4.5
 389,Daniel,Bachmann,Bachmann,G,Watford,4.5,4.5
 390,Adam,Masina,Masina,D,Watford,4.5,4.5
-391,Ken,Sema,Sema,M,Watford,5.5,5.5
+391,Ken,Sema,Sema,M,Watford,5.5,5.4
 392,Philip,Zinckernagel,Zinckernagel,M,Watford,5.5,5.5
 393,Isaac,Success Ajayi,Success,F,Watford,5.0,5.0
 394,Ayotomiwa,Dele-Bashiru,Dele-Bashiru,M,Watford,4.5,4.5
-395,Ashley,Fletcher,Fletcher,F,Watford,5.0,5.0
+395,Ashley,Fletcher,Fletcher,F,Watford,5.0,4.9
 396,Francisco,Sierralta,Sierralta,D,Watford,4.5,4.4
 397,Domingos,Quina,Quina,M,Watford,4.5,4.5
 398,Marc,Navarro,Navarro,D,Watford,4.0,4.0
@@ -411,13 +411,13 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 410,Winston,Reid,Reid,D,West Ham,4.0,4.0
 411,Aaron,Cresswell,Cresswell,D,West Ham,5.5,5.5
 412,Andriy,Yarmolenko,Yarmolenko,M,West Ham,5.5,5.4
-413,Michail,Antonio,Antonio,F,West Ham,7.5,7.8
+413,Michail,Antonio,Antonio,F,West Ham,7.5,7.9
 414,Craig,Dawson,Dawson,D,West Ham,5.0,5.0
 415,Ryan,Fredericks,Fredericks,D,West Ham,4.5,4.5
 416,Manuel,Lanzini,Lanzini,M,West Ham,6.0,5.9
 417,Arthur,Masuaku,Masuaku,D,West Ham,4.5,4.4
 418,Vladimir,Coufal,Coufal,D,West Ham,5.0,5.0
-419,Saïd,Benrahma,Benrahma,M,West Ham,6.0,6.3
+419,Saïd,Benrahma,Benrahma,M,West Ham,6.0,6.4
 420,Jarrod,Bowen,Bowen,M,West Ham,6.5,6.4
 421,Declan,Rice,Rice,M,West Ham,5.0,5.0
 422,Tomas,Soucek,Soucek,M,West Ham,6.0,6.0
@@ -432,7 +432,7 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 431,Romain,Saïss,Saïss,D,Wolves,5.0,5.0
 432,Fernando,Marçal,Marçal,D,Wolves,4.5,4.5
 433,Jonathan,Castro Otto,Jonny,D,Wolves,4.5,4.5
-434,Leander,Dendoncker,Dendoncker,M,Wolves,5.0,5.0
+434,Leander,Dendoncker,Dendoncker,M,Wolves,5.0,4.9
 435,Adama,Traoré,Traoré,M,Wolves,6.0,6.0
 436,Rúben Diogo,da Silva Neves,Neves,M,Wolves,5.5,5.5
 437,Nélson,Cabral Semedo,Semedo,D,Wolves,5.0,4.9
@@ -447,8 +447,8 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 446,Yerson,Mosquera Valdelamar,Mosquera,D,Wolves,4.5,4.5
 447,Danny,Welbeck,Welbeck,F,Brighton,6.0,6.0
 448,Angus,Gunn,Gunn,G,Norwich,4.0,4.0
-449,Milot,Rashica,Rashica,M,Norwich,5.5,5.5
-450,Emmanuel,Dennis,Dennis,F,Watford,5.0,5.1
+449,Milot,Rashica,Rashica,M,Norwich,5.5,5.4
+450,Emmanuel,Dennis,Dennis,F,Watford,5.0,5.2
 451,Nathan,Collins,Collins,D,Burnley,4.5,4.5
 452,John,Ruddy,Ruddy,G,Wolves,4.5,4.5
 453,Fernando,Luiz Rosa,Fernandinho,M,Man City,5.0,5.0
@@ -464,7 +464,7 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 463,Héctor Junior,Firpo Adames,Firpo,D,Leeds,5.0,4.9
 464,Michael,Olise,Olise,M,Crystal Palace,5.5,5.4
 465,Federico,Fernández,Fernández,D,Newcastle,4.5,4.5
-466,Nuno,Varela Tavares,Tavares,D,Arsenal,4.5,4.5
+466,Nuno,Varela Tavares,Tavares,D,Arsenal,4.5,4.4
 467,Oghenekaro Peter,Etebo,Etebo,M,Watford,4.5,4.5
 468,Joshua,King,King,F,Watford,5.5,5.5
 469,Adedapo,Awokoya-Mebude,Mebude,F,Watford,4.5,4.5
@@ -482,7 +482,7 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 481,Asmir,Begović,Begović,G,Everton,4.0,4.0
 482,Andros,Townsend,Townsend,M,Everton,5.5,5.5
 483,Kristoffer,Ajer,Ajer,D,Brentford,4.5,4.5
-484,Demarai,Gray,Gray,M,Everton,5.5,5.5
+484,Demarai,Gray,Gray,M,Everton,5.5,5.6
 485,Jadon,Sancho,Sancho,M,Man Utd,9.5,9.3
 486,Pierluigi,Gollini,Gollini,G,Spurs,4.5,4.5
 487,Bryan,Gil Salvatierra,Bryan,M,Spurs,6.0,5.9
@@ -566,3 +566,20 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost
 565,Owen,Dodgson,Dodgson,D,Burnley,4.0,4.0
 566,Tommy,Doyle,Doyle,M,Man City,4.5,4.5
 567,Lyanco Evangelista,Silveira Neves Vojnovic,Lyanco,D,Southampton,4.5,4.5
+568,Cameron,Archer,Archer,F,Aston Villa,4.5,4.5
+569,Finley,Stevens,Stevens,D,Brentford,4.0,4.0
+570,Niels,Nkounkou,Nkounkou,D,Everton,4.0,4.0
+571,Andy,Lonergan,Lonergan,G,Everton,4.0,4.0
+572,Arthur,Okonkwo,Okonkwo,G,Arsenal,4.0,4.0
+573,Eldin,Jakupovic,Jakupovic,G,Leicester,4.0,4.0
+574,Robert,Elliot,Elliot,G,Watford,4.0,4.0
+575,Aaron,Lennon,Lennon,M,Burnley,5.0,5.0
+576,Liam,McCarron,McCarron,M,Leeds,4.5,4.5
+577,Joe,Gelhardt,Gelhardt,F,Leeds,4.5,4.5
+578,Maxwel,Cornet,Cornet,M,Burnley,6.0,6.0
+579,Cristiano Ronaldo,dos Santos Aveiro,Ronaldo,F,Man Utd,12.5,12.5
+580,Ozan,Kabak,Kabak,D,Norwich,4.5,4.5
+581,Mathias,Normann,Normann,M,Norwich,4.5,4.5
+582,Nikola,Vlasic,Vlasic,M,West Ham,6.0,6.0
+583,Hee-Chan,Hwang,Hwang,F,Wolves,5.5,5.5
+584,Marc,Cucurella,Cucurella,D,Brighton,5.0,5.0
