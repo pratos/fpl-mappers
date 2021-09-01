@@ -92,7 +92,12 @@ async def main():
             data = data.append(pd.DataFrame(players[i:], columns=data.columns))
             break
     
-    data.to_csv("fbref_data.csv", index=False)
+    data = data.sort_values(by="fpl_id")
+
+    # this is done to stop the to_csv method adding `.0` to the height and weight columns
+    data_fixed = data.applymap(lambda cell: int(cell) if str(cell).endswith('.0') else cell)
+
+    data_fixed.to_csv("fbref_data.csv", index=False)
 
 
 if __name__ == "__main__":
