@@ -1,7 +1,7 @@
 fpl_id,fbref_id,name,full_name,height_cm,weight_kg,date_of_birth,nation,club
 1,2628fd2b,Bernd Leno,Bernd Leno,190,79,March 4 1992,Germany,Arsenal
-2,8fa8f8d2,Rúnar Alex Rúnarsson,Rúnar Alex Rúnarsson,185,78,February 18 1995,Iceland,Arsenal
-3,8b9ebd03,Willian,Willian Borges da Silva,175,70,August 9 1988,Brazil,Arsenal
+2,8fa8f8d2,Rúnar Alex Rúnarsson,Rúnar Alex Rúnarsson,185,78,February 18 1995,Iceland,OH Leuven
+3,8b9ebd03,Willian,Willian Borges da Silva,175,70,August 9 1988,Brazil,Corinthians
 4,d5dd5f1f,Pierre-Emerick Aubameyang,Pierre-Emerick Emiliano François Aubameyang,187,80,June 18 1989,Gabon,Arsenal
 5,839c14e1,Cédric Soares,Cédric Ricardo Alves Soares,169,65,August 31 1991,Portugal,Arsenal
 6,9dbb75ca,Alexandre Lacazette,Alexandre Lacazette,175,73,May 28 1991,France,Arsenal
@@ -16,7 +16,7 @@ fpl_id,fbref_id,name,full_name,height_cm,weight_kg,date_of_birth,nation,club
 15,529f49ab,Thomas Partey,Thomas Teye Partey,185,78,June 13 1993,Ghana,Arsenal
 16,fce2302c,Kieran Tierney,Kieran Tierney,178,70,June 5 1997,Scotland,Arsenal
 17,57e3f0c7,Nicolas Pépé,Nicolas Pépé,178,68,May 29 1995,Côte d'Ivoire,Arsenal
-18,52611641,Lucas Torreira,Lucas Torreira,167,63,February 11 1996,Uruguay,Arsenal
+18,52611641,Lucas Torreira,Lucas Torreira,167,63,February 11 1996,Uruguay,Fiorentina
 19,a3b03921,Joe Willock,Joe Willock,178,74,August 20 1999,England,Newcastle United
 20,a53649b7,Eddie Nketiah,Edward Nketiah,175,66,May 30 1999,England,Arsenal
 21,17695062,Emile Smith-Rowe,Emile Smith-Rowe,182,72,July 28 2000,England,Arsenal
@@ -27,7 +27,7 @@ fpl_id,fbref_id,name,full_name,height_cm,weight_kg,date_of_birth,nation,club
 26,48a5a5d6,Martinelli,Gabriel Teodoro Martinelli Silva,180,75,June 18 2001,Brazil,Arsenal
 27,972aeb2a,William Saliba,William Saliba,193,76,March 24 2001,France,Marseille
 28,a8a3d139,Jed Steer,Jed John Steer,188,89,September 23 1992,England,Aston Villa
-29,fcab00a0,Conor Hourihane,Conor Hourihane,181,62,February 2 1991,Republic of Ireland,Aston Villa
+29,fcab00a0,Conor Hourihane,Conor Hourihane,181,62,February 2 1991,Republic of Ireland,Sheffield United
 30,7956236f,Emiliano Martínez,Damián Emiliano Martínez,193,85,September 2 1992,Argentina,Aston Villa
 31,4fdf1fd9,Björn Engels,Björn Engels,194,83,September 15 1994,Belgium,Antwerp
 32,c47541e0,Bertrand Traoré,Bertrand Isidore Traoré,177,72,September 6 1995,Burkina Faso,Aston Villa
@@ -45,8 +45,8 @@ fpl_id,fbref_id,name,full_name,height_cm,weight_kg,date_of_birth,nation,club
 44,2389cdc2,Matty Cash,Matty Cash,185,76,August 7 1997,England,Aston Villa
 45,0313a347,Ezri Konsa,Ezri Konsa Ngoyo,183,77,October 23 1997,England,Aston Villa
 46,5d8d7454,Frederic Guilbert,Frederic Guilbert,178,70,December 24 1994,France,Aston Villa
-47,bfae110f,Wesley Moraes,Wesley Moraes Ferreira Da Silva,192,93,November 26 1996,Brazil,Aston Villa
-48,dae8623e,Mbwana Samatta,Mbwana Aly Samata,179,70,December 23 1992,Tanzania,Fenerbahçe
+47,bfae110f,Wesley Moraes,Wesley Moraes Ferreira Da Silva,192,93,November 26 1996,Brazil,Club Brugge
+48,dae8623e,Mbwana Samatta,Mbwana Aly Samata,179,70,December 23 1992,Tanzania,Antwerp
 49,9deaf2c8,Keinan Davis,Keinan Davis,179,68,February 13 1998,England,Aston Villa
 50,6f7d826d,Douglas Luiz,Douglas Luiz Soares de Paulo,178,66,May 9 1998,Brazil,Aston Villa
 51,1544f145,Jacob Ramsey,Jacob Ramsey,180,73,May 28 2001,England,Aston Villa
@@ -126,7 +126,7 @@ fpl_id,fbref_id,name,full_name,height_cm,weight_kg,date_of_birth,nation,club
 125,79c0821a,Mateo Kovačić,Mateo Kovačić,181,75,May 6 1994,Croatia,Chelsea
 126,2973d8ff,Michy Batshuayi,Michy Batshuayi Tunga,185,78,October 2 1993,Belgium,Beşiktaş
 127,18b896d6,Antonio Rüdiger,Antonio Rüdiger,191,85,March 3 1993,Germany,Chelsea
-128,ce4246f5,Kurt Zouma,Kurt Happy Zouma,190,92,October 27 1994,France,Chelsea
+128,ce4246f5,Kurt Zouma,Kurt Happy Zouma,190,92,October 27 1994,France,West Ham United
 129,28d596a0,Kepa Arrizabalaga,Kepa Arrizabalaga Revuelta,189,88,October 3 1994,Spain,Chelsea
 130,b9fbae28,N'Golo Kanté,N'Golo Kanté,169,68,March 29 1991,France,Chelsea
 131,6622454d,Hakim Ziyech,'Hakim Ziyech',180,70,March 19 1993,Morocco,Chelsea
@@ -285,7 +285,7 @@ fpl_id,fbref_id,name,full_name,height_cm,weight_kg,date_of_birth,nation,club
 284,f5deef4c,Victor Lindelöf,Victor Jörgen Nilsson Lindelöf,187,82,July 17 1994,Sweden,Manchester United
 285,d93c2511,Scott McTominay,Scott McTominay,192,85,December 8 1996,Scotland,Manchester United
 286,a1232f4e,Eric Bailly,Eric Bertrand Bailly,187,77,April 12 1994,Côte d'Ivoire,Manchester United
-287,c931d9f9,Daniel James,Daniel Owen James,179,79,November 10 1997,Wales,Manchester United
+287,c931d9f9,Daniel James,Daniel Owen James,179,79,November 10 1997,Wales,Leeds United
 288,9e525177,Aaron Wan-Bissaka,Aaron Wan-Bissaka,182,72,November 26 1997,England,Manchester United
 289,58eee997,Mason Greenwood,Mason Greenwood,181,65,October 1 2001,England,Manchester United
 290,5e74d6c8,Brandon Williams,Brandon Williams,182,63,September 3 2000,England,Norwich City
@@ -310,7 +310,7 @@ fpl_id,fbref_id,name,full_name,height_cm,weight_kg,date_of_birth,nation,club
 309,a2b105e0,Sean Longstaff,Sean Longstaff,181,77,October 30 1997,England,Newcastle United
 310,c17bfb65,Joelinton,Joelinton Cassio,190,76,August 14 1996,Brazil,Newcastle United
 311,efb9215a,Jamal Lewis,Jamal Lewis,177,69,January 25 1998,Northern Ireland,Newcastle United
-312,c0027d2d,Matthew Longstaff,Matthew Longstaff,171,65,March 21 2000,England,Newcastle United
+312,c0027d2d,Matthew Longstaff,Matthew Longstaff,171,65,March 21 2000,England,Aberdeen
 313,51a19d04,Michael McGovern,Michael McGovern,185,85,July 12 1984,Northern Ireland,Norwich City
 314,f23f9d20,Tim Krul,Timothy Krul,193,86,April 3 1988,Netherlands,Norwich City
 315,0745b37d,Teemu Pukki,Teemu Pukki,180,77,March 29 1990,Finland,Norwich City
@@ -318,9 +318,9 @@ fpl_id,fbref_id,name,full_name,height_cm,weight_kg,date_of_birth,nation,club
 317,3faa1780,Lukas Rupp,Lukas Rupp,178,64,January 8 1991,Germany,Norwich City
 318,471f16b3,Kenny McLean,Kenneth McLean,183,78,January 8 1992,Scotland,Norwich City
 319,e9254eec,Grant Hanley,Grant Campbell Hanley,188,85,November 20 1991,Scotland,Norwich City
-320,007b39a5,Onel Hernández,Onel Lázaro Hernández Mayea,172,69,February 1 1993,Cuba,Norwich City
+320,007b39a5,Onel Hernández,Onel Lázaro Hernández Mayea,172,69,February 1 1993,Cuba,Middlesbrough
 321,1bf811d4,Sam Byram,Samuel Mark Byram,180,72,September 16 1993,England,
-322,a36d4785,Jordan Hugill,Jordan Hugill,183,72,June 4 1992,England,Norwich City
+322,a36d4785,Jordan Hugill,Jordan Hugill,183,72,June 4 1992,England,West Bromwich Albion
 323,2f6ec02a,Kieran Dowell,Kieran O'Neill Dowell,184,59,October 10 1997,England,Norwich City
 324,2d5f03bf,Christoph Zimmermann,Christoph Zimmermann,194,80,January 12 1993,Germany,Norwich City
 325,f63d8a4b,Todd Cantwell,Todd Cantwell,177,66,February 27 1998,England,Norwich City
@@ -352,7 +352,7 @@ fpl_id,fbref_id,name,full_name,height_cm,weight_kg,date_of_birth,nation,club
 351,0b33f6ad,Mohammed Salisu,Mohammed Salisu,191,82,April 17 1999,Ghana,Southampton
 352,cb4f24c6,Joe Hart,Charles Joseph John Hart,196,91,April 19 1987,England,Celtic
 353,8f62b6ee,Hugo Lloris,Hugo Lloris,188,78,December 26 1986,France,Tottenham Hotspur
-354,2acd49b9,Moussa Sissoko,Moussa Sissoko,187,83,August 16 1989,France,Tottenham Hotspur
+354,2acd49b9,Moussa Sissoko,Moussa Sissoko,187,83,August 16 1989,France,Watford
 355,f7d50789,Toby Alderweireld,Tobias Albertine Maurits Alderweireld,187,80,March 2 1989,Belgium,Al Duhail SC
 356,abe66106,Érik Lamela,Erik Manuel Lamela,184,72,March 4 1992,Argentina,Sevilla
 357,21a66f6a,Harry Kane,Harry Edward Kane,188,73,July 28 1993,England,Tottenham Hotspur
@@ -378,20 +378,20 @@ fpl_id,fbref_id,name,full_name,height_cm,weight_kg,date_of_birth,nation,club
 377,89d10e53,Danny Rose,Daniel Lee Rose,173,68,July 2 1990,England,Watford
 378,7fec31a0,Dan Gosling,Daniel Gosling,178,71,February 1 1990,England,Watford
 379,89e4b358,Craig Cathcart,Craig George Cathcart,188,77,February 6 1989,Northern Ireland,Watford
-380,82e34b69,Troy Deeney,Troy Matthew Deeney,183,90,June 29 1988,England,Watford
+380,82e34b69,Troy Deeney,Troy Matthew Deeney,183,90,June 29 1988,England,Birmingham City
 381,6cdd8245,Tom Cleverley,Thomas William Cleverley,175,71,August 12 1989,England,Watford
 382,e5d01ecf,Kiko Femenía,Francisco Femenía Far,174,61,February 2 1991,Spain,Watford
 383,c24dba2a,Andre Gray,Andre Anthony Gray,178,81,June 26 1991,Jamaica,Watford
 384,914ab9a1,Christian Kabasele,Christian Kabasele,187,82,February 24 1991,Belgium,Watford
 385,422862ea,Nathaniel Chalobah,Nathaniel Nyakie Chalobah,185,80,December 12 1994,England,Watford
-386,a0666d3e,Will Hughes,William James Hughes,185,73,April 17 1995,England,Watford
+386,a0666d3e,Will Hughes,William James Hughes,185,73,April 17 1995,England,Crystal Palace
 387,7ed4921e,William Troost-Ekong,William Paul Troost-Ekong,191,82,September 1 1993,Nigeria,Watford
 388,269b4638,Stipe Perica,Stipe Perica,192,76,July 7 1995,Croatia,Maccabi Tel Aviv
 389,1c0eea98,Daniel Bachmann,Daniel Bachmann,191,81,July 9 1994,Austria,Watford
 390,de0f152c,Adam Masina,Adam Masina,189,78,January 2 1994,Morocco,Watford
 391,1770bd68,Ken Sema,Ken Sema,177,69,September 30 1993,Sweden,Watford
 392,a5ea254c,Philip Zinckernagel,Philip Zinckernagel,175,70,December 16 1994,Denmark,Nottingham Forest
-393,f573a8bf,Isaac Success,Isaac Success Ajayi,186,86,January 7 1996,Nigeria,Watford
+393,f573a8bf,Isaac Success,Isaac Success Ajayi,186,86,January 7 1996,Nigeria,Udinese
 394,0666f848,Tom Dele-Bashiru,Ayotomiwa Sherif Dele-Bashiru,182,68,September 17 1999,Nigeria,Reading
 395,eeb6551f,Ashley Fletcher,Ashley Fletcher,185,79,October 2 1995,England,Watford
 396,0f933743,Francisco Sierralta,Francisco Sierralta,190,83,May 6 1997,Chile,Watford
@@ -452,7 +452,7 @@ fpl_id,fbref_id,name,full_name,height_cm,weight_kg,date_of_birth,nation,club
 451,a8c19eb8,Nathan Collins,Nathan Michael Collins,193,81,April 30 2001,Republic of Ireland,Burnley
 452,da8b19e2,John Ruddy,John Thomas Gordon Ruddy,193,93,October 24 1986,England,Wolverhampton Wanderers
 453,101da2b5,Fernandinho,Fernando Luiz Rosa,175,66,May 4 1985,Brazil,Manchester City
-454,6681bcc8,Matthew Pollock,Matthew Pollock,,,September 28 2001,England,Watford
+454,6681bcc8,Matthew Pollock,Matthew Pollock,,,September 28 2001,England,Cheltenham Town
 455,ca45605e,Patson Daka,Patson Daka,180,71,October 9 1998,Zambia,Leicester City
 456,bcfb0142,Ben Gibson,Benjamin James Gibson,185,78,January 15 1993,England,Norwich City
 457,112c495e,Dimitris Giannoulis,Dimitrios Giannoulis,179,68,October 17 1995,Greece,Norwich City
@@ -533,12 +533,12 @@ fpl_id,fbref_id,name,full_name,height_cm,weight_kg,date_of_birth,nation,club
 532,aa81d8f8,Karl Jakob Hein,Karl Jakob Hein,193,81,April 13 2002,Estonia,Arsenal
 533,4fa62ae4,Lewis Richardson,Lewis Richardson,178,65,February 7 2003,England,Burnley
 534,6a471ee8,Bobby Thomas,Bobby Thomas,186,79,(Date unknown),England,Burnley
-535,d01231f0,Andi Zeqiri,Andi Zeqiri,185,78,June 22 1999,Switzerland,Brighton & Hove Albion
+535,d01231f0,Andi Zeqiri,Andi Zeqiri,185,78,June 22 1999,Switzerland,Augsburg
 536,1b280c66,Michał Karbownik,Michał Karbownik,175,70,March 13 2001,Poland,Brighton & Hove Albion
 537,e0243d23,Taylor Richards,Taylor Richards,,,December 4 2000,England,Brighton & Hove Albion
-538,16264a81,Moisés Caicedo,Moisés Isaac Caicedo Corozo,178,75,November 2 2001,Ecuador,Brighton & Hove Albion
+538,16264a81,Moisés Caicedo,Moisés Isaac Caicedo Corozo,178,75,November 2 2001,Ecuador,Beerschot Wilrijk
 539,e0bc6fdc,Emerson Palmieri,Emerson Palmieri dos Santos,176,63,August 3 1994,Italy,Lyon
-540,974b8e7f,Reece  Hannam,Reece  Hannam,,,September 19 2000,England,Crystal Palace
+540,974b8e7f,Reece Hannam,Reece Hannam,178,78,September 19 2000,England,Crystal Palace
 541,45685411,Jesuran Rak Sakyi,Jesuran Rak Sakyi,178,65,October 5 2002,England,Crystal Palace
 542,b4390912,Robert Street,Robert Street,186,,September 26 2001,England,Crystal Palace
 543,d01f8942,Scott Banks,Scott Banks,,,September 26 2001,Scotland,Crystal Palace
@@ -562,13 +562,13 @@ fpl_id,fbref_id,name,full_name,height_cm,weight_kg,date_of_birth,nation,club
 561,27f4f772,Remi Matthews,Remi Matthews,184,78,February 10 1994,England,Crystal Palace
 562,e0d1510a,Cody Drameh,Cody Callum Pierre Drameh,175,68,December 8 2001,England,Leeds United
 563,4654e5f5,Charlie Cresswell,Charlie Cresswell,183,73,December 7 2002,England,Leeds United
-564,3d50bcdb,Moise Kean,Moise Kean,182,77,February 28 2000,Italy,Everton
+564,3d50bcdb,Moise Kean,Moise Kean,182,77,February 28 2000,Italy,Juventus
 565,2e590065,Owen Dodgson,Owen Dodgson,,,March 19 2003,England,Burnley
 566,5526deb1,Thomas Doyle,Thomas Doyle,172,73,October 17 2001,England,Manchester City
-567,b5bf1770,Lyanco,Lyanco,188,83,February 1 1997,Brazil,Torino
+567,b5bf1770,Lyanco,Lyanco,188,83,February 1 1997,Brazil,Southampton
 568,05e8ca6d,Cameron Archer,Cameron Archer,,,July 21 2001,England,Aston Villa
 569,7e003182,Finley Stevens,Finley Stevens,,,April 10 2003,Wales,Brentford
-570,f5b281e7,Niels Nkounkou,Niels Nkounkou,182,78,November 1 2000,France,Everton
+570,f5b281e7,Niels Nkounkou,Niels Nkounkou,182,78,November 1 2000,France,Standard Liège
 571,165cf989,Andy Lonergan,Andrew Michael Lonergan,192,87,October 19 1983,Republic of Ireland,Everton
 572,75834acc,Arthur Okonkwo,Arthur Okonkwo,195,80,September 9 2001,England,Arsenal
 573,1148323a,Eldin Jakupović,Eldin Jakupović,191,82,October 2 1984,Switzerland,Leicester City
@@ -576,10 +576,18 @@ fpl_id,fbref_id,name,full_name,height_cm,weight_kg,date_of_birth,nation,club
 575,2ff964a0,Aaron Lennon,Aaron Justin Lennon,165,62,April 16 1987,England,Burnley
 576,076bb352,Liam McCarron,Liam McCarron,176,61,March 7 2001,Scotland,Leeds United
 577,01962d0d,Joe Gelhardt,Joe Gelhardt,172,66,May 4 2002,England,Leeds United
-578,beb391dd,Maxwel Cornet,Gnaly Maxwell Cornet,179,69,September 27 1996,Côte d'Ivoire,Lyon
+578,beb391dd,Maxwel Cornet,Gnaly Maxwell Cornet,179,69,September 27 1996,Côte d'Ivoire,Burnley
 579,dea698d9,Cristiano Ronaldo,Cristiano Ronaldo dos Santos Aveiro,187,83,February 5 1985,Portugal,Manchester United
-580,2d61d13a,Ozan Kabak,Ozan Kabak,186,86,March 25 2000,Turkey,Schalke 04
-581,8996350d,Mathias Normann,Mathias Normann,178,70,May 28 1996,Norway,Rostov
-582,aa8e289e,Nikola Vlašić,Nikola Vlašić,178,76,October 4 1997,Croatia,CSKA Moscow
-583,169fd162,Hwang Hee-chan,황희찬,177,70,January 26 1996,Korea Republic,RB Leipzig
-584,1daec722,Marc Cucurella,Marc Cucurella,175,68,July 22 1998,Spain,Getafe
+580,2d61d13a,Ozan Kabak,Ozan Kabak,186,86,March 25 2000,Turkey,Norwich City
+581,8996350d,Mathias Normann,Mathias Normann,178,70,May 28 1996,Norway,Norwich City
+582,aa8e289e,Nikola Vlašić,Nikola Vlašić,178,76,October 4 1997,Croatia,West Ham United
+583,169fd162,Hwang Hee-chan,황희찬,177,70,January 26 1996,Korea Republic,Wolverhampton Wanderers
+584,1daec722,Marc Cucurella,Marc Cucurella,175,68,July 22 1998,Spain,Brighton & Hove Albion
+585,24fae784,Connor Roberts,Connor Roberts,175,70,September 23 1995,Wales,Burnley
+586,0562b7f1,Odsonne Édouard,Odsonne Édouard,187,83,January 16 1998,France,Celtic
+587,7c104bb7,Ademola Lookman,Ademola Lookman,174,70,October 20 1997,England,RB Leipzig
+588,df8b52a5,Emerson,Emerson Aparecido Leite de Souza Junior,183,76,January 14 1999,Brazil,Barcelona
+589,e717705a,Alex Král,Alex Král,186,80,May 19 1998,Czech Republic,Spartak Moscow
+590,b3af9be1,Takehiro Tomiyasu,冨安健洋,185,78,November 5 1998,Japan,Bologna
+591,b318a643,Salomón Rondón,José Salomón Rondón Giménez,189,86,September 16 1989,Venezuela,Dalian Yifang
+592,c14bc029,Saúl Ñíguez,Saúl Ñíguez Esclapez,181,70,November 21 1994,Spain,Atlético Madrid
